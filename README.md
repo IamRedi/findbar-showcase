@@ -14,6 +14,7 @@ Findbar helps an operator check a business website and public local presence, re
 - Separate invitation/report access, expiry and revocation; retained evidence and version history.
 - Generated DE / EN / SQ portfolios offer 30 suggested buyer questions across six intents. Separate designs prepare five exploratory questions, 30 questions in one round, or 12 questions in two rounds. Preparation is free; each live scope requires its own budget approval.
 - Bounded public sitemap discovery, Google/Bing crawling-policy checks and evidence-based placeholder detection extend the website audit. Intentional noindex pages do not receive search-description drafts.
+- WordPress builder content now supports page-specific browser-title and search-description proposals with saved source evidence, versioned review and copyable DE / EN / SQ implementation instructions. Publication remains manual; demo placeholders and unsupported claims are excluded.
 - Optional public PageSpeed checks keep quota failures separate from website faults. A Gemini connection can verify model-catalogue access; Gemini inference studies are not enabled.
 - Google OAuth/PKCE adapter implemented and tested with simulated transport. The real Business Profile/Search Console connections are **not yet configured or verified**.
 
@@ -35,7 +36,7 @@ Actual product UI using a visual fixture for “Café Linden · Demo”. No cust
 
 The earlier assisted-portal baseline passed 201 unit tests and 42/42 DB/worker checks, followed by 11/11 focused integration checks after PDF/email refinements. The operator/client journey ran over public HTTPS, with desktop/tablet/mobile checks and three-language PDF downloads. The consent used for QA was explicitly synthetic; no customer approval was impersonated and no email was sent.
 
-The latest public-research baseline passed TypeScript and 219 tests, plus the 44-check isolated DB/worker suite. Three fresh public website checks were recorded separately from the earlier evidence. No new paid AI call was made for this milestone.
+The public-research baseline passed TypeScript and 219 tests, plus 44 isolated DB/worker checks. The WordPress refinement passed TypeScript and 229 tests, a build, all 45 DB/worker checks and a focused six-proposal/idempotency/tenant-isolation test. Three fresh public website checks were recorded separately from the earlier evidence. No new paid AI call was made for this milestone.
 
 The preceding study refinement passed 210 tests. Ten newly authorized live web-search answers were read back through the application with their exact SQ/EN language and response preserved. Preparation is idempotent across snapshot capture times; unused preparation records were revoked before any provider call. No customer identity, media or study result is published here.
 
