@@ -1,52 +1,71 @@
 # Findbar
 
-**Assisted business visibility audits — reviewed, understandable and private.**
+**Your business. Clear findings. A concrete next step.**
 
-Findbar helps an operator check a business website and public local presence, review concrete proposals and deliver a simple private client report. It is part of KiDraht.
+A private audit studio by KiDraht — designed for business owners, operated with review and control.
 
-## Status · 2 November 2026
+![Findbar business studio in English](docs/assets/studio-library-en.jpg)
 
-**Assisted online pilot · Beta / readiness 70 · Owner UAT pending.** This is a public presentation of private implementation work, not a self-service production release.
+*Actual running product UI. Fictitious businesses and sample results; this image does not present a customer audit.*
 
-- Private invitation link; the business confirms its details and permission without entering the operator Studio.
-- Operator-led analysis, three understandable priorities, evidence on demand and reviewed report release.
-- DE / EN / SQ portal and reports, PDF export and an email draft with PDF attachment.
-- Separate invitation/report access, expiry and revocation; retained evidence and version history.
-- Generated DE / EN / SQ portfolios offer 30 suggested buyer questions across six intents. Separate designs prepare five exploratory questions, 30 questions in one round, or 12 questions in two rounds. Preparation is free; each live scope requires its own budget approval.
-- Bounded public sitemap discovery, Google/Bing crawling-policy checks and evidence-based placeholder detection extend the website audit. Intentional noindex pages do not receive search-description drafts.
-- WordPress builder content now supports page-specific browser-title and search-description proposals with saved source evidence, versioned review and copyable DE / EN / SQ implementation instructions. Publication remains manual; demo placeholders and unsupported claims are excluded.
-- Owner-only encrypted Places/PageSpeed key setup, ID-only public profile search and separately approved temporary details. Mobile/desktop PageSpeed checks use the worker and keep provider limits separate from website faults. Two dedicated API/IP-restricted keys are configured; free ID-only profile lookup and keyed mobile/desktop PageSpeed are verified live.
-- Gemini verifies the model catalogue only; Search Grounding analysis stays disabled under its standard terms. Claude Haiku 5.5 has a tested native parser/fixture preview, with paid live dispatch held until a complete provider cost bound is verified. Existing OpenAI studies are preserved.
-- Google OAuth/PKCE adapter implemented and tested with simulated transport. The real Business Profile/Search Console connections are **not yet configured or verified**.
+## What Findbar does
 
-The saved AI sample is kept distinct from new website checks. No claim of guaranteed rankings, AI recommendations or automatic client-site publishing is made.
+- **Checks the website:** browser titles, search descriptions, repeated text, crawl instructions and supported content issues, with saved evidence.
+- **Shows the exact change:** current text beside the proposed replacement, where it appears, and copyable instructions for the developer. WordPress proposals are page-specific.
+- **Reviews public local presence:** read-only Google profile ID lookup and mobile/desktop PageSpeed checks, kept separate from website findings.
+- **Runs scoped AI studies:** approved OpenAI web-search questions, traceable answers and citations, a defined budget and preserved original results. A small study is not a global visibility score.
+- **Keeps the client journey simple:** a private invitation, confirmation of business details and permission, then a reviewed DE/EN/SQ report. PDF export and an email draft with attachment are available; email is not sent automatically.
+- **Retains the history:** source evidence, report versions, proposals, approvals, revocation and expiry. A preview or replay is never labelled a fresh public measurement.
 
-## Real interface, fictitious demo business
+The operator works in the Studio. The client receives the result. Customer-site publication and paid requests retain their own scoped approvals.
 
-![Private invitation interface](docs/assets/pilot-invitation-demo-de.png)
+<details><summary>See an exact proposed change · English</summary>
 
-Actual product UI using a visual fixture for “Café Linden · Demo”. No customer data, customer consent or measured business results are shown. The implementation was separately tested with isolated operator/client sessions.
+![Saved text and proposed search description](docs/assets/studio-proposal-en.jpg)
 
-<details><summary>Mobile invitation</summary>
-
-![Mobile invitation](docs/assets/pilot-invitation-demo-en.png)
+Synthetic demonstration: the search description changes; the large heading inside the website stays as it is.
 
 </details>
 
-![Public connections with synthetic data](docs/assets/public-connections.fixture.png)
+## Demonstrim në shqip
 
-Actual operator UI with synthetic test data; no live Google result, customer data or measured Maps rank.
+Findbar tregon **çfarë është mirë, çfarë duhet përmirësuar dhe çfarë ndryshimi propozohet**. Çdo biznes ka profilin, logon, kopertinën dhe historikun e vet. Detajet hapen kur nevojiten.
 
-## Verification and limits
+Biznesi konfirmon të dhënat përmes një ftese private. Operatori bën kontrollet dhe shqyrton rezultatin; klienti merr raportin e qartë, me PDF dhe përmbledhje emaili.
 
-The earlier assisted-portal baseline passed 201 unit tests and 42/42 DB/worker checks, followed by 11/11 focused integration checks after PDF/email refinements. The operator/client journey ran over public HTTPS, with desktop/tablet/mobile checks and three-language PDF downloads. The consent used for QA was explicitly synthetic; no customer approval was impersonated and no email was sent.
+![Studioja Findbar në shqip](docs/assets/studio-library-sq.jpg)
 
-The public-research baseline passed TypeScript and 219 tests, plus 44 isolated DB/worker checks. The WordPress refinement passed TypeScript and 229 tests, a build, all 45 DB/worker checks and a focused six-proposal/idempotency/tenant-isolation test. Three fresh public website checks were recorded separately from the earlier evidence. No new paid AI call was made for this milestone.
+*UI reale me biznese dhe rezultate shembull. Të dhënat dhe raportet e pilotëve realë mbeten private.*
 
-The own-connections refinement passed TypeScript and 238 unit tests, a production build, all 51 isolated DB/worker checks and 9 focused adapter checks. Chrome verified desktop/tablet/mobile and EN/DE/SQ controls with synthetic data. No new paid AI call or customer-site write was made. After a separate scoped approval, four free live Google checks returned HTTP200: two ID-only profile lookups and two PageSpeed device measurements. No profile details or AI calls were purchased. Claude paid live dispatch remains disabled.
+<details><summary>Shiko ndryshimin konkret · Shqip</summary>
 
-The preceding study refinement passed 210 tests. Ten newly authorized live web-search answers were read back through the application with their exact SQ/EN language and response preserved. Preparation is idempotent across snapshot capture times; unused preparation records were revoked before any provider call. No customer identity, media or study result is published here.
+![Teksti aktual dhe propozimi në shqip](docs/assets/studio-proposal-sq.jpg)
 
-Existing owner records, AI studies/costs, encrypted key and original regression export were verified unchanged. Real Business Profile/Search Console access, real client usability feedback and final owner acceptance remain open.
+Propozimi tregon qartë fushën që ndryshon dhe vendin ku shfaqet. Udhëzimi për zhvilluesin hapet veç dhe mund të kopjohet.
 
-[Portfolio case study](https://www.redioncekrezi.de/en/projects/findbar)
+</details>
+
+<details><summary>Mobile · EN / SQ</summary>
+
+<img src="docs/assets/studio-mobile-en.jpg" alt="English mobile business profile demonstration" width="300" />
+<img src="docs/assets/studio-mobile-sq.jpg" alt="Demonstrimi mobile në shqip" width="300" />
+
+</details>
+
+## Status · 3 November 2026
+
+**Assisted pilot · Beta / readiness 70 · Owner UAT pending.**
+
+Website, worker/DB, scoped OpenAI studies, free ID-only Google lookup and mobile/desktop PageSpeed have been exercised. A real correction case completed the proposal → approved implementation → fresh public recheck loop. This is an assisted pilot, not a self-service production launch.
+
+Business branding is currently a reviewed catalogue: existing website logos/covers where available, original category illustrations and monograms otherwise. Automatic brand discovery is planned. Decorations never alter audit scores or evidence.
+
+Real client-owned Google Business Profile/Search Console connections still need the client's access. OAuth/PKCE is tested with simulated transport. Gemini is catalogue-only; grounding analysis is disabled. Claude has a native fixture preview; paid live execution stays held until the complete cost bound is verified. Generic automatic client-site publishing is not connected.
+
+## Verification
+
+The preceding software baseline passed TypeScript, 238 unit tests, a production build and 51 isolated DB/worker checks. Its nine adapter checks and free live Google checks are recorded separately from paid, authorised pilot studies. The current identity/media refinement passed TypeScript, 240 unit tests, a production build and all 51 isolated DB/worker checks, with desktop/tablet/mobile visual review. A deterministic regression now rejects non-canonical approval-token encodings, and the local synthetic media surface is blocked in production.
+
+Original reports and historical records remain intact. The basic website percentage is a count of scoped checks — not a Maps position, a ranking promise or an AI recommendation guarantee. Client feedback and final owner acceptance remain open.
+
+[View the portfolio case study](https://www.redioncekrezi.de/en/projects/findbar) · [Prezantimi në shqip](https://www.redioncekrezi.de/sq/projects/findbar)
