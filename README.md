@@ -27,6 +27,16 @@ Synthetic demonstration: the search description changes; the large heading insid
 
 </details>
 
+## Präsentation auf Deutsch
+
+**Findbar für Pizzerien und lokale Betriebe:** verständliche Website-Prüfung, konkrete Vorschläge und ein Bericht, den Sie an Ihre Website-Betreuung weitergeben können.
+
+[Vollständige deutsche Präsentation mit Pizzeria-Beispiel](docs/PRAESENTATION_DE.md)
+
+![Findbar auf Deutsch mit einer fiktiven Pizzeria](docs/assets/pizzeria-library-de.jpg)
+
+*Echte Oberfläche; fiktive Unternehmen und Beispielergebnisse. Keine Kundendaten.*
+
 ## Demonstrim në shqip
 
 Findbar tregon **çfarë është mirë, çfarë duhet përmirësuar dhe çfarë ndryshimi propozohet**. Çdo biznes ka profilin, logon, kopertinën dhe historikun e vet. Detajet hapen kur nevojiten.
@@ -68,4 +78,4 @@ The preceding software baseline passed TypeScript, 238 unit tests, a production 
 
 Original reports and historical records remain intact. The basic website percentage is a count of scoped checks — not a Maps position, a ranking promise or an AI recommendation guarantee. Client feedback and final owner acceptance remain open.
 
-[View the portfolio case study](https://www.redioncekrezi.de/en/projects/findbar) · [Prezantimi në shqip](https://www.redioncekrezi.de/sq/projects/findbar)
+[Deutsche Präsentation](docs/PRAESENTATION_DE.md) · [View the portfolio case study](https://www.redioncekrezi.de/en/projects/findbar) · [Prezantimi në shqip](https://www.redioncekrezi.de/sq/projects/findbar)
