@@ -1,52 +1,38 @@
-# Findbar für Pizzerien und lokale Betriebe
+# Findbar für lokale Betriebe
 
-**Was stimmt auf Ihrer Website — und was lässt sich konkret verbessern?**
+**Verstehen, was auf Ihrer Website verbessert werden kann — mit konkreten Vorschlägen.**
 
-Sie führen Ihre Pizzeria. Wir prüfen Ihren Auftritt im Netz und zeigen Ihnen verständlich, wo Handlungsbedarf besteht. Sie erhalten klare Prioritäten und konkrete Vorschläge für die Person, die Ihre Website betreut.
+Sie führen Ihren Betrieb. Der Findbar-Operator prüft Ihren Auftritt im Netz, ordnet die Ergebnisse ein und erstellt einen verständlichen Bericht. Sie bestätigen die Angaben und entscheiden über die Umsetzung.
 
-![Findbar Unternehmensübersicht auf Deutsch](assets/pizzeria-library-de.jpg)
+## Echter Fall: Pizzeria Adela in Velbert
 
-*Echte Findbar-Oberfläche mit fiktiven Unternehmen und Beispielergebnissen. Pizzeria Linden ist ein Demonstrationsbetrieb.*
+![Pizzeria Adela mit Logo, Titelbild und gespeichertem Website-Ergebnis](assets/adela-de-website.jpg)
 
-## Ein Beispiel, das sich sofort verstehen lässt
+Der Website-Check vom **2. November 2026** umfasst **13 Seiten**. Innerhalb der abgedeckten Basisregeln gab es keine automatischen Befunde. Der ergänzende manuelle Review identifizierte weitere Aufgaben; er wird gesondert eingeordnet. Die Anzeige 100% ist keine vollständige Bewertung der Website oder des Betriebs.
 
-In unserer Demo fehlt auf einer Seite der kurze Beschreibungstext für Suchmaschinen. Findbar zeigt den gespeicherten Zustand links und den konkreten Textvorschlag rechts. Der große Text innerhalb der Website wird dadurch nicht geändert.
+## Was die KI-Studie zeigte
 
-![Aktueller Zustand und vorgeschlagener Such-Kurztext einer fiktiven Pizzeria](assets/pizzeria-proposal-de.jpg)
+![Gespeicherte KI-Studie der Pizzeria Adela in Findbar](assets/adela-de-ai.jpg)
 
-Die Website-Betreuung kann die genaue Seite, das betroffene Feld und den vorgeschlagenen Text ansehen und kopieren. Änderungen werden vor der Veröffentlichung geprüft und freigegeben.
+In den **fünf gespeicherten API-Antworten** wurde Adela nicht genannt. Eine Antwort wich nach Essen ab; das ist eine Qualitätsgrenze der Antwort. Es handelt sich um ausgewählte Fragen eines einzelnen Durchlaufs mit OpenAI-Websuche, keine Maps-Rangfolge oder Messung des gesamten Markts.
 
-## So läuft die Zusammenarbeit
+Die Screenshots wurden am **3. November 2026** aus der echten Findbar-Anwendung aufgenommen und mit Erlaubnis veröffentlicht. Die gespeicherten Prüfungen wurden dafür nicht erneut gestartet. Ein Zugriff auf interne Google-Business-Profile-Daten ist noch nicht verbunden.
 
-1. **Sie bestätigen Ihren Betrieb.** Über einen privaten Link prüfen Sie die bekannten Angaben und geben die Prüfung frei.
-2. **Wir prüfen und ordnen ein.** Website und öffentlich prüfbare lokale Angaben werden untersucht. Auf Wunsch werden separat freigegebene KI-Studien vorbereitet.
-3. **Sie erhalten ein klares Ergebnis.** Was funktioniert? Was sollte verbessert werden? Welche Schritte sind zuerst sinnvoll? Der geprüfte Bericht lässt sich als PDF herunterladen.
-4. **Sie entscheiden über die Umsetzung.** Die Website-Betreuung erhält konkrete Anweisungen. Nach einer freigegebenen Änderung wird erneut geprüft.
+## Wie aus einem Befund ein konkreter Vorschlag wird
 
-Sie müssen keine Prompts schreiben oder technische Einstellungen verwalten.
+Der reale AL-Steel-Fall zeigt den nächsten Schritt: Ein fehlender Such-Kurztext steht neben einem konkreten Ersatz für die betreffende Seite. Der gespeicherte Check umfasst 30 Seiten, fünf Verbesserungsthemen und elf Vorschläge. Die Oberfläche ist in diesem Beispiel Albanisch.
 
-## Was Findbar prüft
+![AL-Steel: konkreter Such-Kurztext als Umsetzungsvorschlag](assets/alsteel-sq-proposal.jpg)
 
-- **Ihre Website:** unter anderem Seitentitel, Suchbeschreibungen, wiederholte Seitentitel und Beschreibungen und unterstützte technische Auffälligkeiten — mit Belegen.
-- **Öffentliche lokale Präsenz:** Findbar kann einen passenden öffentlichen Google-Eintrag suchen und die Geschwindigkeit Ihrer Website auf Smartphone und Desktop prüfen. Diese Ergebnisse werden gesondert gezeigt.
-- **Ausgewählte KI-Antworten:** ob Ihr Betrieb in einem freigegebenen Fragenpaket erwähnt oder als Quelle genannt wird. Anbieter, Umfang und Budget werden vorher festgelegt.
+Die Website-Betreuung kann Seite, Feld und Ersatztext ansehen und kopieren. Die Änderung wird vor der Veröffentlichung geprüft und freigegeben. An diesen Kundenwebsites wurde für die Präsentation nichts geändert.
 
-## Ein Ergebnis, das Sie weitergeben können
+## So arbeiten Sie mit Findbar
 
-Der Bericht benennt verständlich, was gut ist und was verbessert werden sollte. Konkrete Textvorschläge und die zugehörigen Belege bleiben nachvollziehbar. PDF und E-Mail-Entwurf stehen bereit; es wird keine E-Mail automatisch versendet.
+1. Über einen privaten Link bestätigen Sie Ihren Betrieb und die Freigabe.
+2. Der Operator führt die vereinbarten Prüfungen durch und prüft die Ergebnisse.
+3. Sie erhalten Prioritäten, konkrete Vorschläge und einen verständlichen Bericht als PDF oder E-Mail-Entwurf.
+4. Ihre Website-Betreuung setzt freigegebene Änderungen um. Anschließend wird erneut geprüft.
 
-<details><summary>Mobile Ansicht</summary>
+Sie müssen keine Prompts schreiben oder technische Einstellungen verwalten. Findbar ist ein betreuter Pilot; Rankings oder zusätzliche Gäste werden nicht garantiert. Automatische Veröffentlichung auf beliebigen Kundenwebsites ist noch nicht angebunden.
 
-<img src="assets/pizzeria-mobile-de.jpg" alt="Deutsche mobile Findbar-Ansicht mit der fiktiven Pizzeria Linden" width="300" />
-
-</details>
-
-<details><summary>Aktueller Pilot und Grenzen</summary>
-
-Findbar läuft als betreuter Pilot. Der Betreiber führt die Prüfungen aus; das Unternehmen bestätigt Angaben und erhält den geprüften Bericht. Zugriffe auf interne Google-Business-Profile- oder Search-Console-Daten sind noch nicht live angebunden und brauchen die entsprechende Kundenfreigabe.
-
-Eine Website-Basis-Prozentzahl zählt die ausgeführten Prüfungen. Sie ist keine Google-Position oder allgemeine Bewertung Ihres Betriebs. Eine kleine KI-Studie ist eine Momentaufnahme ausgewählter Antworten; sie garantiert keine Sichtbarkeit oder zusätzlichen Gäste. Findbar veröffentlicht Änderungen auf Kundenwebsites nicht automatisch.
-
-</details>
-
-[Zur Produktpräsentation im Portfolio](https://www.redioncekrezi.de/de/projects/findbar) · [English](../README.md) · [Shqip](../README.md#demonstrim-në-shqip)
+[Weitere reale Fälle in Albanisch und Englisch](../README.md) · [Deutsches Portfolio](https://www.redioncekrezi.de/de/projects/findbar)
