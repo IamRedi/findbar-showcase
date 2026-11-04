@@ -87,3 +87,8 @@ Business logos and covers come from a reviewed catalogue. Automatic discovery is
 The software verification baseline passed TypeScript, 240 unit tests, a production build and 51 isolated DB/worker checks. This presentation refresh reused saved results and made no new paid AI calls or changes to customer websites. Original reports and previous presentation versions remain in their history.
 
 [English portfolio](https://www.redioncekrezi.de/en/projects/findbar) · [Portofoli shqip](https://www.redioncekrezi.de/sq/projects/findbar) · [Deutsches Portfolio](https://www.redioncekrezi.de/de/projects/findbar)
+
+<!-- PRESENTATION_FIRST_CANDIDATE_20261104 -->
+## Public website candidate · 4 November 2026
+
+The presentation-first update is prepared for review: [product website](https://redion.tailbdeaae.ts.net/findbar?lang=en). Publication and anonymous online verification remain pending; this candidate does not raise application readiness. The product website explains the platform before app sign-in. Private-network or approved-account access remains separate.
