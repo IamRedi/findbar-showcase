@@ -8,13 +8,12 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 *Actual application, real saved result, published with permission. Six pages checked on 30 October 2026; no confirmed change under the covered website rules. Captured on 3 November 2026.*
 
-## Native product presentation · 4 November 2026
+<!-- PRESENTATION_FIRST_PUBLICATION_76F8B3EAC1CF -->
+## Public product website · 4 November 2026
 
-Findbar now has a native information page in **SQ, EN, DE and IT**, with its purpose, verified capabilities, workflow and actual application entry. Open **Findbar → Overview** in the [application directory](https://www.redioncekrezi.de/en).
+The [Findbar product website](https://redion.tailbdeaae.ts.net/findbar?lang=en) explains the studio before sign-in. Its current marketing pages support DE/EN/SQ; the Italian portfolio deliberately opens English. The earlier four-language /about pages remain available as legacy information. Existing sign-in, reports and operator/client controls are preserved.
 
-[SQ](https://www.redioncekrezi.de/sq) · [EN](https://www.redioncekrezi.de/en) · [DE](https://www.redioncekrezi.de/de) · [IT](https://www.redioncekrezi.de/it)
-
-The presentation uses the application’s existing origin and access controls. It does not grant access to a private installation or turn this public offline showcase into an open service. The application UI language, implemented capabilities and readiness are unchanged. Existing demo screenshots still describe the same application.
+Verified on 4 November 2026 with packet `76f8b3eac1cf` and [portfolio PR29](https://github.com/IamRedi/redion-portfolio-/pull/29). Application capabilities, existing media, stage and readiness are unchanged.
 
 ## Three real businesses · three languages
 
@@ -87,8 +86,3 @@ Business logos and covers come from a reviewed catalogue. Automatic discovery is
 The software verification baseline passed TypeScript, 240 unit tests, a production build and 51 isolated DB/worker checks. This presentation refresh reused saved results and made no new paid AI calls or changes to customer websites. Original reports and previous presentation versions remain in their history.
 
 [English portfolio](https://www.redioncekrezi.de/en/projects/findbar) · [Portofoli shqip](https://www.redioncekrezi.de/sq/projects/findbar) · [Deutsches Portfolio](https://www.redioncekrezi.de/de/projects/findbar)
-
-<!-- PRESENTATION_FIRST_CANDIDATE_20261104 -->
-## Public website candidate · 4 November 2026
-
-The presentation-first update is prepared for review: [product website](https://redion.tailbdeaae.ts.net/findbar?lang=en). Publication and anonymous online verification remain pending; this candidate does not raise application readiness. The product website explains the platform before app sign-in. Private-network or approved-account access remains separate.
