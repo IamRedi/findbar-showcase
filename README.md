@@ -19,7 +19,7 @@ Historical screenshots below retain the previous Findbar branding and their orig
 <!-- PRESENTATION_FIRST_PUBLICATION_76F8B3EAC1CF -->
 ## Public product website · 4 November 2026
 
-The [Findbar product website](https://redion.tailbdeaae.ts.net/findbar?lang=en) explains the studio before sign-in. Its current marketing pages support DE/EN/SQ; the Italian portfolio deliberately opens English. The earlier four-language /about pages remain available as legacy information. Existing sign-in, reports and operator/client controls are preserved.
+At that publication, the [Findbar product website](https://redion.tailbdeaae.ts.net/findbar?lang=en) explained the studio before sign-in in DE/EN/SQ; the Italian portfolio opened English. The earlier four-language /about pages were retained as legacy information. Existing sign-in, reports and operator/client controls were preserved.
 
 Verified on 4 November 2026 with packet `76f8b3eac1cf` and [portfolio PR29](https://github.com/IamRedi/redion-portfolio-/pull/29). Application capabilities, existing media, stage and readiness are unchanged.
 
