@@ -1,4 +1,4 @@
-# Findbar
+# GeoFindbar
 
 **Your business. Clear findings. A concrete next step.**
 
@@ -8,10 +8,18 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 *Actual application, real saved result, published with permission. Six pages checked on 30 October 2026; no confirmed change under the covered website rules. Captured on 3 November 2026.*
 
+## GeoFindbar · public domain · 9 November 2026
+
+[GeoFindbar website](https://www.geofindbar.de/en.html) · [Deutsch](https://www.geofindbar.de/de.html) · [Shqip](https://www.geofindbar.de/sq.html) · [Italiano](https://www.geofindbar.de/it.html)
+
+GeoFindbar is the owner-approved name for the existing SEO and GEO (Generative Engine Optimization) tool. The registered domain responds over HTTPS with a valid certificate. The public website keeps its own request form and website assistant, separately from the private Studio; it does not proxy the Studio APIs or customer reports. Studio access still requires the existing private-network/account controls.
+
+Historical screenshots below retain the previous Findbar branding and their original dates. The rename does not imply a new audit, improved rankings or a change in pilot readiness. The brand refresh is prepared in [application PR11](https://github.com/IamRedi/findbar/pull/11). The [portfolio link migration, PR72](https://github.com/IamRedi/redion-portfolio-/pull/72), has also passed the independent KiDraht DNS/TLS and seven-language route checks. Both publication candidates remain subject to owner approval.
+
 <!-- PRESENTATION_FIRST_PUBLICATION_76F8B3EAC1CF -->
 ## Public product website · 4 November 2026
 
-The [Findbar product website](https://redion.tailbdeaae.ts.net/findbar?lang=en) explains the studio before sign-in. Its current marketing pages support DE/EN/SQ; the Italian portfolio deliberately opens English. The earlier four-language /about pages remain available as legacy information. Existing sign-in, reports and operator/client controls are preserved.
+At that publication, the [Findbar product website](https://redion.tailbdeaae.ts.net/findbar?lang=en) explained the studio before sign-in in DE/EN/SQ; the Italian portfolio opened English. The earlier four-language /about pages were retained as legacy information. Existing sign-in, reports and operator/client controls were preserved.
 
 Verified on 4 November 2026 with packet `76f8b3eac1cf` and [portfolio PR29](https://github.com/IamRedi/redion-portfolio-/pull/29). Application capabilities, existing media, stage and readiness are unchanged.
 
@@ -67,7 +75,7 @@ The saved check covered **six pages** and found no confirmed change under the cu
 
 </details>
 
-## What Findbar does
+## What GeoFindbar does
 
 - Checks supported website issues with saved evidence: titles, search descriptions, repeated metadata and crawl/content rules.
 - Shows the saved state beside a concrete proposal, with its exact field and copyable developer instructions.
@@ -86,3 +94,5 @@ Business logos and covers come from a reviewed catalogue. Automatic discovery is
 The software verification baseline passed TypeScript, 240 unit tests, a production build and 51 isolated DB/worker checks. This presentation refresh reused saved results and made no new paid AI calls or changes to customer websites. Original reports and previous presentation versions remain in their history.
 
 [English portfolio](https://www.redioncekrezi.de/en/projects/findbar) · [Portofoli shqip](https://www.redioncekrezi.de/sq/projects/findbar) · [Deutsches Portfolio](https://www.redioncekrezi.de/de/projects/findbar)
+
+[by RediON](https://www.redioncekrezi.de/)
