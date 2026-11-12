@@ -8,6 +8,10 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 *Actual application, real saved result, published with permission. Six pages checked on 30 October 2026; no confirmed change under the covered website rules. Captured on 3 November 2026.*
 
+## Website reliability and abuse controls · 12 November 2026
+
+The public GeoFindbar website received a tested maintenance update that handles malformed requests safely and adds bounded request and assistant usage controls. The existing private Studio was not redeployed. The work does not imply a complete security guarantee or change the pilot stage. [Implementation and validation](https://github.com/IamRedi/findbar/pull/15).
+
 ## GeoFindbar · public domain · 9 November 2026
 
 [GeoFindbar website](https://www.geofindbar.de/en.html) · [Deutsch](https://www.geofindbar.de/de.html) · [Shqip](https://www.geofindbar.de/sq.html) · [Italiano](https://www.geofindbar.de/it.html)
