@@ -12,6 +12,8 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 The new released engine uses the preserved KiDraht and Flow cases as executable regression fixtures for buyer enquiry, cost/activation and learning/demo boundaries. Eight historical before/after pairs produce 24 page-level review prompts on old snapshots and 0 on corrected snapshots. These are scoped review signals, separate from basic HTML scoring; no blind benchmark, fresh visibility measurement or automatic client-site change is claimed. Owner-approved PR20/source0710247 is deployed to the private Studio/worker; two fresh native KiDraht/Flow audits each checked10pages with0new buyer-review prompts. Original rows/keys/finances and paid-API restrictions remain preserved, as do intentional noindex/JS and Beta70/owner-UAT boundaries. [Released scope and evidence limits](docs/BUYER_ENGINE_CANDIDATE_20261113.md).
 
+A prospective frozen-rule BaumdienstFlow case now preserves the automatic findings, a separately sealed agent review and observed false alerts without retuning the engine. [Case and limits](docs/BAUMDIENSTFLOW_FROZEN_CASE_20261113.md).
+
 A separate agent-assisted semantic comparison now reuses the same real-client questions and exact public-source captures. Reports remain private and model_assisted; automatic semantic inference and paid APIs are not activated. [Method and boundaries](docs/BUYER_ENGINE_CANDIDATE_20261113.md).
 
 ## FlowGastronomie as a real client · 13 November 2026
