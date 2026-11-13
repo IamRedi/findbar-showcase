@@ -10,13 +10,19 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 ## Owner-platform cycle · 13 November 2026
 
-The public GeoFindbar website and the private Studio worker were updated after owner approval. Fresh audits through the actual online worker checked **8 GeoFindbar URLs** and respected the agreed **10-page limit for KiDraht**. Four localized legal pages are kept outside GeoFindbar's commercial website indicator. KiDraht's intentional noindex boundary and unread JavaScript content remain explicit limitations; its pending server correction is not presented as published.
+The public GeoFindbar website and the private Studio worker were updated after owner approval. Fresh audits through the actual online worker checked **8 GeoFindbar URLs** and respected the agreed **10-page limit for KiDraht**. Four localized legal pages are kept outside GeoFindbar's commercial website indicator. At that first recheck, KiDraht's intentional noindex boundary and unread JavaScript content remained explicit limitations; its separate correction was still pending at that point.
 
 The original reports and history were preserved, with a new private backup and a comparison of all original rows across 32 tables. Two new audit records were added. No paid AI study or automatic schedule was activated. Ten earlier agent-assisted web-review answers remain separate from provider API measurements; this cycle does not establish ranking or AI-visibility uplift. Final owner UAT is still pending, and Beta/readiness 70 is unchanged.
 
 ![Published GeoFindbar website with the approved scope and separate AI-study approval](docs/assets/geofindbar-public-site-20261113.jpg)
 
 *Actual public website, captured on 13 November 2026 after publication. This is the product presentation, not a screenshot of private customer data or an API measurement.*
+
+## KiDraht as a real client · 13 November 2026
+
+A subsequent owner-approved client correction was published on KiDraht: two labelled enquiry paths for new companies, three additional buyer FAQ answers in seven languages, clearer factual metadata and truthful XML/TXT responses. The same eight DE/SQ buyer questions were searched and answered by the agent before and after publication; candidate answers remain separate. The agent already knows the client, so this demonstrates source clarity rather than independent AI discovery or ranking uplift.
+
+Fresh actual worker runs both remain partial: seven intentional noindex pages and three unassessed JavaScript shells, with no valid percentage. All seven live pages match the tested candidate; the 55-title catalogue, original private records/assets and financial/configuration boundaries are preserved. Full gate: TypeScript, 184 tests passed, two optional PostgreSQL fixture skips. No paid provider API was activated or called by this cycle. The before/candidate/after reports are three private source versions, not API-study records. Demo materials remain private review drafts; no new screenshots or owner acceptance are claimed.
 
 ## GeoFindbar · public domain · 9 November 2026
 
