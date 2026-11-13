@@ -8,6 +8,16 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 *Actual application, real saved result, published with permission. Six pages checked on 30 October 2026; no confirmed change under the covered website rules. Captured on 3 November 2026.*
 
+## Owner-platform cycle · 13 November 2026
+
+The public GeoFindbar website and the private Studio worker were updated after owner approval. Fresh audits through the actual online worker checked **8 GeoFindbar URLs** and respected the agreed **10-page limit for KiDraht**. Four localized legal pages are kept outside GeoFindbar's commercial website indicator. KiDraht's intentional noindex boundary and unread JavaScript content remain explicit limitations; its pending server correction is not presented as published.
+
+The original reports and history were preserved, with a new private backup and a comparison of all original rows across 32 tables. Two new audit records were added. No paid AI study or automatic schedule was activated. Ten earlier agent-assisted web-review answers remain separate from provider API measurements; this cycle does not establish ranking or AI-visibility uplift. Final owner UAT is still pending, and Beta/readiness 70 is unchanged.
+
+![Published GeoFindbar website with the approved scope and separate AI-study approval](docs/assets/geofindbar-public-site-20261113.jpg)
+
+*Actual public website, captured on 13 November 2026 after publication. This is the product presentation, not a screenshot of private customer data or an API measurement.*
+
 ## GeoFindbar · public domain · 9 November 2026
 
 [GeoFindbar website](https://www.geofindbar.de/en.html) · [Deutsch](https://www.geofindbar.de/de.html) · [Shqip](https://www.geofindbar.de/sq.html) · [Italiano](https://www.geofindbar.de/it.html)
