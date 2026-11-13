@@ -8,6 +8,10 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 *Actual application, real saved result, published with permission. Six pages checked on 30 October 2026; no confirmed change under the covered website rules. Captured on 3 November 2026.*
 
+## Buyer-answer engine candidate · 13 November 2026
+
+A new engine candidate uses the preserved KiDraht and Flow cases as executable regression fixtures for buyer enquiry, cost/activation and learning/demo boundaries. Eight historical before/after pairs produce24 page-level review prompts on old snapshots and0 on corrected snapshots. These are scoped review signals, separate from basic HTML scoring; no blind benchmark, fresh visibility measurement or automatic client-site change is claimed. The candidate is under review and has not been deployed; production remains13db6ad, paid APIs unchanged and Beta70/owner-UAT status preserved. [Candidate scope and evidence limits](docs/BUYER_ENGINE_CANDIDATE_20261113.md).
+
 ## FlowGastronomie as a real client · 13 November 2026
 
 The owner-approved public website now gives four-language buyer answers and a labelled price/setup contact, while separating the demo from real payment/fiscal activation. Eight unchanged DE/SQ questions were genuinely searched and answered by the agent before/after; three private report versions parsed successfully. Two actual GeoFindbar audits each passed 60/60 basic HTML checks over 10 sampled pages, with zero native findings. The agent found the buyer gaps: this case demonstrates a coverage limit, not AI-visibility uplift. Original history, keys and finances are preserved. No paid API was activated or called. [Verified case and limits](docs/FLOW_CLIENT_20261113.md). Beta70/owner-UAT status remains unchanged; new demonstration assets are private review drafts.
