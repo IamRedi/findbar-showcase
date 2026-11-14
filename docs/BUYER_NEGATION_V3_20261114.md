@@ -1,0 +1,11 @@
+# GeoFindbar DE/EN wording correction — verified candidate
+
+14 November 2026. [Application PR22](https://github.com/IamRedi/findbar/pull/22), reviewed HEAD a8160f1095dae17aed8ac399258c6e46c59c1ca9, contains application source 5d8f547 plus documentation only. Existing Studio/worker remains on 4904/v2; publication and three native v3 after-rechecks are PENDING exact owner approval.
+
+V3 recognizes bounded German negated service objects and English coordinated non-activation wording, excludes FAQ questions as claims and retains ambiguous/positive activation for review. It is explicit static grammar, not universal semantic AI or operational activation verification. Old extraction/report versions1/2 remain unchanged; new method/finding IDs carry version3. No client-site, schema, dependency, provider or paid-API change.
+
+Fresh production-v2 baseline versus fresh guarded candidate reads: BaumdienstFlow3→0 buyer review prompts; KiDraht0→0; Flow0→0. The same newly captured HTML was also analyzed by v2/v3, confirming3/0/0 versus0/0/0 without relying on website changes between reads. Each sample is10pages/partial. Five original pre-copy Baum pages retain5genuine cost/setup reviews; the post-copy capture changes3→0. Eight historical KiDraht/Flow pairs remain24before/0after. These are known-client regressions, not a held-out benchmark or visibility measurement. Price quotes, noindex/JS/language/sample limits remain.
+
+TypeScript,282unit,build,54isolated worker integrations,18desktop/tablet/mobile E2E and production dependency audit0vulnerabilities PASS on the bounded authorized local executor.1082historical evidence files and original rows across32tables,keys/config/finances preserved. Private pre/post archive readbackPASS; independentrestoreNOT_RUN. Three normal nativebaseline jobs added; paidAPI activation/calls0. Actual unchanged report renderer preview checked in SQ/DE at1280/390; not production-v3 acceptance or approved public client media.
+
+Native public presentation, portfolio cards/links, GitHub About and Beta/readiness70: NO_CONTENT_CHANGE because this internal detection correction adds no public capability or access promise. Technical receipts only; no new public screenshots, no schedule or successor task. Final owner UAT remains pending.

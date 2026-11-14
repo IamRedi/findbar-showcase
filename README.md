@@ -14,6 +14,8 @@ The new released engine uses the preserved KiDraht and Flow cases as executable 
 
 Owner-approved buyer-context v2 is now active in the Studio/worker. It removes7observed false alerts in the immutable BaumdienstFlow case while retaining the real setup/cost review. Three fresh native BaumdienstFlow/KiDraht/Flow audits returned5/0/0buyer-review prompts under the10-page limit, with original evidence/data and0paidAPI preserved. [Published scope and limits](docs/BUYER_CONTEXT_V2_20261114.md).
 
+A subsequent DE/EN wording correction is verified in [candidate PR22](docs/BUYER_NEGATION_V3_20261114.md): fresh public Baum buyer prompts3→0, KiDraht/Flow remain0. Studio/worker publication is pending exact owner approval; existing readiness and public media are unchanged.
+
 BaumdienstFlow quote/setup copy is now public; the frozen native GeoFindbar before/live-after cycle returned5→3reviewprompts. The remaining DE/ENnegation disagreement is preserved; numerical price and independent discovery remain limited. [Published case and limits](docs/BAUM_CLIENT_COPY_20261114.md).
 
 A prospective frozen-rule BaumdienstFlow case now preserves the automatic findings, a separately sealed agent review and observed false alerts without retuning the engine. [Case and limits](docs/BAUMDIENSTFLOW_FROZEN_CASE_20261113.md).
