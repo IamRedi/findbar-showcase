@@ -12,6 +12,8 @@ The [published v4 engine](docs/BUYER_TOPIC_SCOPE_V4_20261114.md) now reviews abs
 
 The [identity correction and DE/AL website updates](docs/IDENTITY_MARKETS_20261114.md) are now published and native rechecked. Four engine rechecks preserve27matched captures and quarantine5uncertain identities;two further website audits sample6pages each with0findings. Essen/NRW and Tirana are explicit software target markets. No ranking,independent-discovery or AI visibility uplift is claimed.
 
+An [actual Google/AI client visibility sample](docs/GOOGLE_AI_VISIBILITY_20261114.md) confirms that both product URLs appear in Google,while AI entity conflation and Tirana discovery gaps remain. Secondary web-tool absence disagrees with directGoogle and is not noindexing evidence. This is a read-only measured sample,no automatic engine rule or ranking uplift claim.
+
 ## Buyer-answer engine · 13 November 2026
 
 The new released engine uses the preserved KiDraht and Flow cases as executable regression fixtures for buyer enquiry, cost/activation and learning/demo boundaries. Eight historical before/after pairs produce 24 page-level review prompts on old snapshots and 0 on corrected snapshots. These are scoped review signals, separate from basic HTML scoring; no blind benchmark, fresh visibility measurement or automatic client-site change is claimed. Owner-approved PR20/source0710247 is deployed to the private Studio/worker; two fresh native KiDraht/Flow audits each checked10pages with0new buyer-review prompts. Original rows/keys/finances and paid-API restrictions remain preserved, as do intentional noindex/JS and Beta70/owner-UAT boundaries. [Released scope and evidence limits](docs/BUYER_ENGINE_CANDIDATE_20261113.md).
