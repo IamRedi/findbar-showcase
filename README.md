@@ -10,6 +10,8 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 The [published v4 engine](docs/BUYER_TOPIC_SCOPE_V4_20261114.md) now reviews absent buyer topics and separates confirmed products sharing a domain. Four actual native rechecks preserve clear corrected buyer answers and distinct BauFlow/Baum samples; the active module flags five immutable historical missing-cost editions. Original evidence/data and paid-API restrictions remain preserved; conservative scope and visibility/readiness limits remain explicit.
 
+The [identity and DE/AL market candidates](docs/IDENTITY_MARKETS_20261114.md) are tested and awaiting two scoped publication approvals. Uncertain aliases are quarantined; actual client evidence and current live v4 are preserved. Regional copy is a candidate, with no ranking/AI visibility uplift claimed.
+
 ## Buyer-answer engine · 13 November 2026
 
 The new released engine uses the preserved KiDraht and Flow cases as executable regression fixtures for buyer enquiry, cost/activation and learning/demo boundaries. Eight historical before/after pairs produce 24 page-level review prompts on old snapshots and 0 on corrected snapshots. These are scoped review signals, separate from basic HTML scoring; no blind benchmark, fresh visibility measurement or automatic client-site change is claimed. Owner-approved PR20/source0710247 is deployed to the private Studio/worker; two fresh native KiDraht/Flow audits each checked10pages with0new buyer-review prompts. Original rows/keys/finances and paid-API restrictions remain preserved, as do intentional noindex/JS and Beta70/owner-UAT boundaries. [Released scope and evidence limits](docs/BUYER_ENGINE_CANDIDATE_20261113.md).
