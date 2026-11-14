@@ -1,3 +1,15 @@
+# GeoFindbar v3 — published and native rechecked
+
+14 November 2026. Owner-approved PR22/head a8160f1095dae17aed8ac399258c6e46c59c1ca9 merged as470889245cbb22c61157fd1de1ef8807c9854a26 and is running in the existing Studio/worker. Tested application5d8f547 is identical;only docs/evidence followed. Readiness200 and unauthenticated entityAPI401 passed;previous4904release retained for rollback. No schema/provider/client-site change or paidAPI activation/call.
+
+Actual persistent-worker v2before→v3after: BaumdienstFlow3→0 buyer review prompts,KiDraht0→0,Flow0→0. Each10pages/partial;all30/30HTMLhashes are identical between nativebefore/after. Old genuine Baumcost/setupreviews remain5;historical KiDraht/Flow24before/0after preserved. This proves the bounded recognition correction in known cases,not universal semantic AI,business completeness or visibility uplift. Price/noindex/JS/language/crawl limits remain.
+
+282unit/typecheck/build,54isolatedworkerintegrations,18desktop/tablet/mobileE2E and production dependency audit0vulnerabilities PASS. Original1082evidencefiles and original32table rows/keys/config/finances preserved;privatepre/postbackup archive-readbackPASS,independentrestoreNOT_RUN. Only6normalnativeaudits/jobs added (3before+3after). Owned regenerable test dependencies/build removed through the canonical runner after independent-release/source/data checks;source/data/config/logs/bundles/backups retained. No unrelated jobs affected.
+
+Native public presentation,portfolio cards/links,About and Beta70 remain accurate:NO_CONTENT_CHANGE. Existing private report previews remain labelled candidate previews;no new public clientmedia or ownerUAT claim. ScopeDONE;no automatically started API,schedule or successor. Technical companion PRs19/8/86 remain open for normal review and were not merged by PR22 approval.
+
+## Candidate protocol — historical, superseded above
+
 # GeoFindbar DE/EN wording correction — verified candidate
 
 14 November 2026. [Application PR22](https://github.com/IamRedi/findbar/pull/22), reviewed HEAD a8160f1095dae17aed8ac399258c6e46c59c1ca9, contains application source 5d8f547 plus documentation only. Existing Studio/worker remains on 4904/v2; publication and three native v3 after-rechecks are PENDING exact owner approval.
