@@ -1,3 +1,5 @@
+Prepared [restaurant review candidate](docs/RESTAURANT_REVIEW_CANDIDATE_20261114.md): real before/after regression and full local gates verified; exact Studio/worker publication awaits approval. Current runtime remains PR26. No ranking/readiness uplift or new public customer media.
+
 Latest [approved PR26 engine publication](docs/PR26_INDEXING_LIVE_20261114.md): Studio/worker is live;wood and four real-client rechecks retain intentional noindex and original evidence.26HTML bodies match preserved baselines. No ranking/readiness uplift claimed.
 
 ## Restaurant-client validation · 14 November 2026
