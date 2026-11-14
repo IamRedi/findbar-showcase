@@ -1,3 +1,5 @@
+Latest [full demo verification](docs/DEMO_FULL_QA_20261114.md): static candidate unchanged; application release gates and reproduced baseline failures recorded. Draft preparation only; no new deployment or readiness increase.
+
 # GeoFindbar
 
 **Your business. Clear findings. A concrete next step.**
