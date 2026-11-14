@@ -1,3 +1,15 @@
+# GeoFindbar v4 — published and four native rechecks verified
+
+14 November 2026. Owner-approved PR23/head 3b3cb21bbc84e6421293d2fbae23b11ab55ceeda merged as 0018995674fd47b84731375b2272e4a3c280b316. The same source is active in the existing Studio/worker; application code matches tested ed1025c. Studio readiness 200 and unauthenticated API 401 passed; previous v3 is retained for rollback. No customer-site, schema, dependency, provider or paid API change.
+
+Four actual persistent-worker native v4 audits returned BauFlow 7 pages (5 presentation + 2 own legal), BaumdienstFlow 5, KiDraht 10, Flow 10; all remain partial with zero new buyer-review prompts. All 32 HTML hashes match the guarded candidate. Product scopes are persisted separately; 30 pages have a common unchanged v3 baseline, two own legal pages are newly reached. The active published module also replayed ten immutable historical BauFlow captures offline: five absent-cost-topic editions produce five review prompts instead of v3 not_applicable/zero, while five corrected editions retain zero. That replay is not a fresh historical website measurement or extra native job.
+
+Original 1,233 evidence files, original rows in 32 tables, keys, configuration, finances and existing profiles are preserved. Only eight normal native runs/jobs were added, four before/four after. Fresh private pre/post backup archive readbacks passed; independent restore not run. Exact application evidence remains TypeScript, 297 tests, build, 54 isolated integration, 18 desktop/tablet/mobile E2E and zero production dependency vulnerabilities. Only the independent task job dependencies/build were safely closed; source/data/logs/evidence/backups and the active release remain intact. No Actions, paid calls, original-answer rerating, blind benchmark or visibility uplift claim.
+
+Approved scope DONE. Native presentation, About, portfolio cards/readiness and public media remain assessed NO_CONTENT_CHANGE for this internal deterministic correction. Technical companion PRs remain open; private draft previews are not production screenshots or public-media approvals. Unknown aliases/branding/shared product content, unsupported/JS/noindex boundaries, physical-device/text-zoom/full UAT and independent restore remain limited/unverified. No automatic successor or schedule.
+
+## Historical candidate protocol (superseded above)
+
 # GeoFindbar v4 candidate — absent buyer topics and product scope
 
 14 November 2026. Tested application source `ed1025c9d81d00dc1a39a7c4b3cb61f55ee78d6e`. Production remains owner-approved a8160f1/v3; v4 publication is pending exact-version approval. No customer website, schema, dependency, provider or paid API change.
