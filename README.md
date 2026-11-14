@@ -1,3 +1,7 @@
+Latest verified milestone: [approved static publication and pinned demo test repair](docs/PR200_STATIC_LIVE_AND_BAUM_REPAIR_20261114.md). StaticFAQ live;native crawler evidence partial;repaired local gates PASS,app candidate not deployed. No ranking/readiness uplift claimed.
+
+## Earlier verification history
+
 Latest [full demo verification](docs/DEMO_FULL_QA_20261114.md): static candidate unchanged; application release gates and reproduced baseline failures recorded. Draft preparation only; no new deployment or readiness increase.
 
 # GeoFindbar
