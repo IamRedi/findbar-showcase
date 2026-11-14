@@ -1,0 +1,25 @@
+# GeoFindbar buyer-context v2 published
+
+14 November 2026. The owner approved exact core PR21/head4904a734. It merged as3087e85 and is active in the existing Studio/worker, with application bytes identical to the fully tested source58e5f77. Studio200 and unauthenticated API401 passed; source0710247 remains available for rollback. No schema/provider/configuration change.
+
+Three fresh audits through the normal persistent worker checked10pages per existing confirmed platform profile, all partial under that limit. BaumdienstFlow e730618c returned5cost/setup prompts and no learning-boundary or missed-contact review. KiDraht dd9b23d0 and Flow fe3c4a3b returned0new buyer-review prompts. All use explicit_buyer_signals_v2. The controlled immutable Baum replay remains12→5; five remaining locale/root prompts represent one cost/setup theme, not five customer defects. Historical KiDraht/Flow8pairs retain24before/0after. All109original evidence files and original rows across32production tables, encrypted keys, configuration and financial accounting remain preserved. Only three normal audits/jobs and associated results were added; AIstudies10/reservations38unchanged. Fresh private backup991072bytes/archive-readbackPASS; independent restore NOT_RUN. Paid API activation/calls and client-site changes:0.
+
+The prior272unit/TypeScript/build,54isolated DB-worker and18E2E/audit0PASS evidence belongs to the identical published application; no full-suite rerun during deployment is claimed. Known-case bias, partial crawl/sibling/about allocation, intended KiDrahtnoindex/JS and general semantic limits remain. Basic HTML health is separate from buyer reviews and AI/visibility measurements. Native report screenshots are offline candidate exports, not authenticated post-release Studio screenshots. Scope complete; no automatic successor study, paid API or schedule.
+
+The public native presentation and portfolio cards/links/About still accurately describe an assisted evidence-backed pilot: NO_CONTENT_CHANGE at accepted source4904a734,14November2026. Beta70/ownerUAT/public gallery unchanged; no new client media publication. Public About/homepage/topics remain accurate and unchanged. Portfolio GitHub-sync check passed14November2026. Companion PRs retain technical documentation for review, separate from the already approved application publication.
+
+## Historical candidate receipt — before exact publication approval
+
+The pending publication wording below records the earlier candidate stage; it is superseded by the live result above.
+
+# GeoFindbar buyer-context v2 candidate
+
+14 November 2026. The owner authorized correcting observed cross-product false signals and retesting BaumdienstFlow, KiDraht and Flow without changing original evidence or activating paid APIs. Core PR21/source4904a734 is tested and prepared for exact merge/deploy approval; production remains source0710247.
+
+The generic rules recognize safe natural-language contact links, exclude explicitly separated linked-product tool sections from buyer-signal extraction and distinguish vehicle availability from software pricing. Genuine company setup/cost prompts retain relevant evidence. No client brand/domain/selector is hardcoded. The immutable BaumdienstFlow replay changes12manual-review prompts to5cost/setup prompts (one repeated theme), removing7observed false signals. Eight historical KiDraht/Flow before-after pairs retain24before/0after. All109original evidence files remain hash-identical. Fresh guarded public crawling of10pages per platform produced5/0/0buyer-review prompts; this candidate HTTP check is separate from acceptance of the unpublished production worker.
+
+272unit/TypeScript/build,54isolated DB-worker integrations,18desktop/tablet/mobile E2E and production dependency audit0vulnerabilities passed. The tested application source58e5f77 is byte-identical to the candidate runtime; only a diagnostic CLI rulesVersion label1to2 and docs/evidence changed afterward, followed by TypeScript/evaluator rechecks. Native offline report exports were checked at1280/390SQ/DE; these are not authenticated production Studio screenshots. Original32table rows/counts, encrypted keys, configuration and financial accounting remain preserved. Fresh backup archive readback passed; independent restore NOT_RUN. Paid API calls/activation, client-site changes and migrations:0.
+
+The staged release has not switched production. Next: exact owner approval of PR21/head4904a734, then three normal native worker audits against existing profiles with fresh preservation checks. Existing crawl sibling/about allocation, semantic coverage limits and known-case bias remain explicit; this is not a blind benchmark, GEO visibility uplift or owner UAT acceptance. Native presentation/cards/About/links/Beta70:NO_CONTENT_CHANGE. Evidence remains private DRAFT; companion PRs contain a technical receipt only, without releasing client media.
+
+Core PR: https://github.com/IamRedi/findbar/pull/21 . Existing evidence history: PR19 and the owner-private GeoFindbar project folder. No new project/database/schedule/provider was introduced.

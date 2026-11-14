@@ -8,6 +8,46 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 *Actual application, real saved result, published with permission. Six pages checked on 30 October 2026; no confirmed change under the covered website rules. Captured on 3 November 2026.*
 
+The [published v4 engine](docs/BUYER_TOPIC_SCOPE_V4_20261114.md) now reviews absent buyer topics and separates confirmed products sharing a domain. Four actual native rechecks preserve clear corrected buyer answers and distinct BauFlow/Baum samples; the active module flags five immutable historical missing-cost editions. Original evidence/data and paid-API restrictions remain preserved; conservative scope and visibility/readiness limits remain explicit.
+
+The [identity correction and DE/AL website updates](docs/IDENTITY_MARKETS_20261114.md) are now published and native rechecked. Four engine rechecks preserve27matched captures and quarantine5uncertain identities;two further website audits sample6pages each with0findings. Essen/NRW and Tirana are explicit software target markets. No ranking,independent-discovery or AI visibility uplift is claimed.
+
+## Buyer-answer engine · 13 November 2026
+
+The new released engine uses the preserved KiDraht and Flow cases as executable regression fixtures for buyer enquiry, cost/activation and learning/demo boundaries. Eight historical before/after pairs produce 24 page-level review prompts on old snapshots and 0 on corrected snapshots. These are scoped review signals, separate from basic HTML scoring; no blind benchmark, fresh visibility measurement or automatic client-site change is claimed. Owner-approved PR20/source0710247 is deployed to the private Studio/worker; two fresh native KiDraht/Flow audits each checked10pages with0new buyer-review prompts. Original rows/keys/finances and paid-API restrictions remain preserved, as do intentional noindex/JS and Beta70/owner-UAT boundaries. [Released scope and evidence limits](docs/BUYER_ENGINE_CANDIDATE_20261113.md).
+
+Owner-approved buyer-context v2 is now active in the Studio/worker. It removes7observed false alerts in the immutable BaumdienstFlow case while retaining the real setup/cost review. Three fresh native BaumdienstFlow/KiDraht/Flow audits returned5/0/0buyer-review prompts under the10-page limit, with original evidence/data and0paidAPI preserved. [Published scope and limits](docs/BUYER_CONTEXT_V2_20261114.md).
+
+The [BauFlow/AL-Steel client cycle](docs/BAUFLOW_CLIENT_GEO_20261114.md) is published and native rechecked:0→0reviewprompts,but5costchecks move from not_applicable to explicit;agentanswers2/4/2→4/2/2. Missing-topic applicability and cross-product crawl limits remain documented;no visibility or readiness uplift claimed.
+
+The DE/EN wording correction is now published in Studio/worker. Three actual native rechecks returned Baum3→0 buyer prompts,KiDraht0→0,Flow0→0,with all30HTMLhashes unchanged. [Published v3 case and limits](docs/BUYER_NEGATION_V3_20261114.md). Readiness and public media remain unchanged.
+
+BaumdienstFlow quote/setup copy is now public; the frozen native GeoFindbar before/live-after cycle returned5→3reviewprompts. The remaining DE/ENnegation disagreement is preserved; numerical price and independent discovery remain limited. [Published case and limits](docs/BAUM_CLIENT_COPY_20261114.md).
+
+A prospective frozen-rule BaumdienstFlow case now preserves the automatic findings, a separately sealed agent review and observed false alerts without retuning the engine. [Case and limits](docs/BAUMDIENSTFLOW_FROZEN_CASE_20261113.md).
+
+A separate agent-assisted semantic comparison now reuses the same real-client questions and exact public-source captures. Reports remain private and model_assisted; automatic semantic inference and paid APIs are not activated. [Method and boundaries](docs/BUYER_ENGINE_CANDIDATE_20261113.md).
+
+## FlowGastronomie as a real client · 13 November 2026
+
+The owner-approved public website now gives four-language buyer answers and a labelled price/setup contact, while separating the demo from real payment/fiscal activation. Eight unchanged DE/SQ questions were genuinely searched and answered by the agent before/after; three private report versions parsed successfully. Two actual GeoFindbar audits each passed 60/60 basic HTML checks over 10 sampled pages, with zero native findings. The agent found the buyer gaps: this case demonstrates a coverage limit, not AI-visibility uplift. Original history, keys and finances are preserved. No paid API was activated or called. [Verified case and limits](docs/FLOW_CLIENT_20261113.md). Beta70/owner-UAT status remains unchanged; new demonstration assets are private review drafts.
+
+## Owner-platform cycle · 13 November 2026
+
+The public GeoFindbar website and the private Studio worker were updated after owner approval. Fresh audits through the actual online worker checked **8 GeoFindbar URLs** and respected the agreed **10-page limit for KiDraht**. Four localized legal pages are kept outside GeoFindbar's commercial website indicator. At that first recheck, KiDraht's intentional noindex boundary and unread JavaScript content remained explicit limitations; its separate correction was still pending at that point.
+
+The original reports and history were preserved, with a new private backup and a comparison of all original rows across 32 tables. Two new audit records were added. No paid AI study or automatic schedule was activated. Ten earlier agent-assisted web-review answers remain separate from provider API measurements; this cycle does not establish ranking or AI-visibility uplift. Final owner UAT is still pending, and Beta/readiness 70 is unchanged.
+
+![Published GeoFindbar website with the approved scope and separate AI-study approval](docs/assets/geofindbar-public-site-20261113.jpg)
+
+*Actual public website, captured on 13 November 2026 after publication. This is the product presentation, not a screenshot of private customer data or an API measurement.*
+
+## KiDraht as a real client · 13 November 2026
+
+A subsequent owner-approved client correction was published on KiDraht: two labelled enquiry paths for new companies, three additional buyer FAQ answers in seven languages, clearer factual metadata and truthful XML/TXT responses. The same eight DE/SQ buyer questions were searched and answered by the agent before and after publication; candidate answers remain separate. The agent already knows the client, so this demonstrates source clarity rather than independent AI discovery or ranking uplift.
+
+Fresh actual worker runs both remain partial: seven intentional noindex pages and three unassessed JavaScript shells, with no valid percentage. All seven live pages match the tested candidate; the 55-title catalogue, original private records/assets and financial/configuration boundaries are preserved. Full gate: TypeScript, 184 tests passed, two optional PostgreSQL fixture skips. No paid provider API was activated or called by this cycle. The before/candidate/after reports are three private source versions, not API-study records. Demo materials remain private review drafts; no new screenshots or owner acceptance are claimed.
+
 ## GeoFindbar · public domain · 9 November 2026
 
 [GeoFindbar website](https://www.geofindbar.de/en.html) · [Deutsch](https://www.geofindbar.de/de.html) · [Shqip](https://www.geofindbar.de/sq.html) · [Italiano](https://www.geofindbar.de/it.html)
