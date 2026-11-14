@@ -1,5 +1,15 @@
 Latest [approved PR26 engine publication](docs/PR26_INDEXING_LIVE_20261114.md): Studio/worker is live;wood and four real-client rechecks retain intentional noindex and original evidence.26HTML bodies match preserved baselines. No ranking/readiness uplift claimed.
 
+## Restaurant-client validation · 14 November 2026
+
+A known restaurant pilot completed frozen-rule, actual native before/after audits
+and a separately authorised website metadata enhancement. Ten-page samples remain
+partial with0static findings; four locales now expose fact-derived Restaurant
+data. The assistant identified this opportunity; the business engine does not
+yet recommend it automatically. No paid API calls or Google/AI visibility uplift
+claimed. Existing assisted Beta70 scope and public media remain unchanged.
+[Verified scope and remaining boundary](docs/RESTAURANT_CLIENT_BOUNDARY_20261114.md).
+
 ## Preserved earlier milestone history
 
 Latest [approved PR25 engine publication](docs/PR25_CONTEXT_LIVE_20261114.md): Studio/worker is live; four native client audits and one demo component recheck retain context evidence and manual-review limits. No ranking or readiness uplift claimed.
