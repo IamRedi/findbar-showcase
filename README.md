@@ -1,3 +1,7 @@
+Latest [pinned demo release verification](docs/PR202_RELEASE_READY_20261114.md): remaining local gates PASS;exact-source app publication awaits separate owner approval. Static publication remains live. No new capability/readiness or public media claim.
+
+## Earlier milestone history
+
 Latest verified milestone: [approved static publication and pinned demo test repair](docs/PR200_STATIC_LIVE_AND_BAUM_REPAIR_20261114.md). StaticFAQ live;native crawler evidence partial;repaired local gates PASS,app candidate not deployed. No ranking/readiness uplift claimed.
 
 ## Earlier verification history
