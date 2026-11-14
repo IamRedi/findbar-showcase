@@ -14,6 +14,8 @@ The [identity correction and DE/AL website updates](docs/IDENTITY_MARKETS_202611
 
 An [actual Google/AI client visibility sample](docs/GOOGLE_AI_VISIBILITY_20261114.md) confirms that both product URLs appear in Google,while AI entity conflation and Tirana discovery gaps remain. Secondary web-tool absence disagrees with directGoogle and is not noindexing evidence. This is a read-only measured sample,no automatic engine rule or ranking uplift claim.
 
+A [guarded product identity candidate](docs/PUBLIC_PRODUCT_SEPARATION_20261114.md) follows the real Google/AI case. Public copy is tested;demo patch configuration checks passed while full application release gates remain pending. The info-domain proposal requires ownership/TLS verification. Nothing in this candidate is published and no ranking uplift is claimed.
+
 ## Buyer-answer engine · 13 November 2026
 
 The new released engine uses the preserved KiDraht and Flow cases as executable regression fixtures for buyer enquiry, cost/activation and learning/demo boundaries. Eight historical before/after pairs produce 24 page-level review prompts on old snapshots and 0 on corrected snapshots. These are scoped review signals, separate from basic HTML scoring; no blind benchmark, fresh visibility measurement or automatic client-site change is claimed. Owner-approved PR20/source0710247 is deployed to the private Studio/worker; two fresh native KiDraht/Flow audits each checked10pages with0new buyer-review prompts. Original rows/keys/finances and paid-API restrictions remain preserved, as do intentional noindex/JS and Beta70/owner-UAT boundaries. [Released scope and evidence limits](docs/BUYER_ENGINE_CANDIDATE_20261113.md).
