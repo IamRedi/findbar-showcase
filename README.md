@@ -1,3 +1,7 @@
+Latest [approved PR25 engine publication](docs/PR25_CONTEXT_LIVE_20261114.md): Studio/worker is live; four native client audits and one demo component recheck retain context evidence and manual-review limits. No ranking or readiness uplift claimed.
+
+## Preserved preparation and earlier milestone history
+
 Latest [demo-purpose/context candidate](docs/DEMO_PURPOSE_CONTEXT_CANDIDATE_20261114.md): exact-source checks and real-client replay verified; PR25 awaits publication approval. Live engine remains unchanged. No ranking/readiness uplift claimed.
 
 ## Previous completed milestone history
