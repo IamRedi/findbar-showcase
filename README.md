@@ -10,7 +10,7 @@ A business audit studio by KiDraht. The operator performs the checks; the busine
 
 The [published v4 engine](docs/BUYER_TOPIC_SCOPE_V4_20261114.md) now reviews absent buyer topics and separates confirmed products sharing a domain. Four actual native rechecks preserve clear corrected buyer answers and distinct BauFlow/Baum samples; the active module flags five immutable historical missing-cost editions. Original evidence/data and paid-API restrictions remain preserved; conservative scope and visibility/readiness limits remain explicit.
 
-The [identity and DE/AL market candidates](docs/IDENTITY_MARKETS_20261114.md) are tested and awaiting two scoped publication approvals. Uncertain aliases are quarantined; actual client evidence and current live v4 are preserved. Regional copy is a candidate, with no ranking/AI visibility uplift claimed.
+The [identity correction and DE/AL website updates](docs/IDENTITY_MARKETS_20261114.md) are now published and native rechecked. Four engine rechecks preserve27matched captures and quarantine5uncertain identities;two further website audits sample6pages each with0findings. Essen/NRW and Tirana are explicit software target markets. No ranking,independent-discovery or AI visibility uplift is claimed.
 
 ## Buyer-answer engine · 13 November 2026
 
