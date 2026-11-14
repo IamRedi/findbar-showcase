@@ -1,4 +1,6 @@
-Latest [pinned demo release verification](docs/PR202_RELEASE_READY_20261114.md): remaining local gates PASS;exact-source app publication awaits separate owner approval. Static publication remains live. No new capability/readiness or public media claim.
+Latest [approved BaumdienstFlow demo publication](docs/PR202_DEMO_LIVE_20261114.md): pinned source is live; frozen native before/after and data preservation verified. Intentional demo noindex is kept separate from marketing. No ranking/readiness or public media claim.
+
+Historical preparation: Latest [pinned demo release verification](docs/PR202_RELEASE_READY_20261114.md): remaining local gates PASS;exact-source app publication awaits separate owner approval. Static publication remains live. No new capability/readiness or public media claim.
 
 ## Earlier milestone history
 
