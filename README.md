@@ -14,6 +14,8 @@ The new released engine uses the preserved KiDraht and Flow cases as executable 
 
 Owner-approved buyer-context v2 is now active in the Studio/worker. It removes7observed false alerts in the immutable BaumdienstFlow case while retaining the real setup/cost review. Three fresh native BaumdienstFlow/KiDraht/Flow audits returned5/0/0buyer-review prompts under the10-page limit, with original evidence/data and0paidAPI preserved. [Published scope and limits](docs/BUYER_CONTEXT_V2_20261114.md).
 
+A subsequent BaumdienstFlow client-copy candidate clarifies quote/setup and demo boundaries. The original engine still flags3natural-language negation cases; this disagreement and the baseline remain preserved. Static publication is owner-approved and pending account authentication. [Case and limits](docs/BAUM_CLIENT_COPY_20261114.md).
+
 A prospective frozen-rule BaumdienstFlow case now preserves the automatic findings, a separately sealed agent review and observed false alerts without retuning the engine. [Case and limits](docs/BAUMDIENSTFLOW_FROZEN_CASE_20261113.md).
 
 A separate agent-assisted semantic comparison now reuses the same real-client questions and exact public-source captures. Reports remain private and model_assisted; automatic semantic inference and paid APIs are not activated. [Method and boundaries](docs/BUYER_ENGINE_CANDIDATE_20261113.md).
