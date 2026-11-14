@@ -1,3 +1,7 @@
+Latest [approved PR26 engine publication](docs/PR26_INDEXING_LIVE_20261114.md): Studio/worker is live;wood and four real-client rechecks retain intentional noindex and original evidence.26HTML bodies match preserved baselines. No ranking/readiness uplift claimed.
+
+## Preserved earlier milestone history
+
 Latest [approved PR25 engine publication](docs/PR25_CONTEXT_LIVE_20261114.md): Studio/worker is live; four native client audits and one demo component recheck retain context evidence and manual-review limits. No ranking or readiness uplift claimed.
 
 ## Preserved preparation and earlier milestone history
