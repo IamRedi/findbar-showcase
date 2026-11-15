@@ -1,3 +1,7 @@
+Prepared [private form/alias and free-report candidates](docs/FORMS_ALIAS_FREE_CHECK_20261115.md) for review in PR32/PR33. Original evidence and database backups are preserved; current production and assisted Beta70 are unchanged. No paid API.
+
+## Preserved real-test and publication history
+
 Real [self-client recheck after PR31](docs/SELF_PR31_RECHECK_20261115.md) completed with original evidence preserved. The native report retains5raw enquiry reviews; browser/assistant checks distinguish extraction limits from business defects. No engine/site change or paid API.
 
 ## Preserved publication and earlier test history
