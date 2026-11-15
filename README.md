@@ -1,3 +1,7 @@
+Published and live-verified [GeoFindbar PR32/PR33](docs/PR32_PR33_LIVE_20261115.md), with the small PR34 German text correction. Same original nine page bodies: five false enquiry reviews to zero. Free evidenced report and a three-step enquiry are public; original data/proof are preserved and paid APIs remain off. Assisted Beta70 is unchanged.
+
+## Preserved preparation and publication history
+
 Prepared [private form/alias and free-report candidates](docs/FORMS_ALIAS_FREE_CHECK_20261115.md) for review in PR32/PR33. Original evidence and database backups are preserved; current production and assisted Beta70 are unchanged. No paid API.
 
 ## Preserved real-test and publication history
