@@ -1,3 +1,7 @@
+Latest [approved self-client engine and offer release](docs/SELF_CLIENT_LIVE_20261115.md): actual native12-to4-to0reviews, original evidence preserved, public offer clarified. No paid API, ranking or readiness uplift.
+
+## Preserved earlier release history
+
 Latest [approved restaurant-review release](docs/PR27_RESTAURANT_LIVE_20261115.md): PR27 is live in Studio/worker;five native client rechecks,wood protection and immutable before/after regression verified. No paid API or ranking/readiness uplift.
 
 ## Earlier candidate preparation and retained milestone history
