@@ -1,3 +1,7 @@
+Published and native-rechecked [GeoFindbar PR35](docs/PR35_LIVE_20261115.md). Original evidence/data and intended noindex are preserved; no paid API. Public site PR33 and assisted Beta70 remain unchanged. Earlier candidate pending-publication entries are historical.
+
+## Preserved publication and preparation history
+
 Prepared [bounded language and description review PR35](docs/CONTENT_QUALITY_CANDIDATE_20261115.md) with all local gates and owner-client regressions verified. Production remains PR34/PR33 pending separate Studio/worker publication approval. Original evidence/noindex and paid-API restrictions are preserved; assisted Beta70 and approved public media are unchanged.
 
 ## Preserved publication and preparation history
