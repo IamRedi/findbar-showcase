@@ -1,3 +1,7 @@
+Prepared [bounded language and description review PR35](docs/CONTENT_QUALITY_CANDIDATE_20261115.md) with all local gates and owner-client regressions verified. Production remains PR34/PR33 pending separate Studio/worker publication approval. Original evidence/noindex and paid-API restrictions are preserved; assisted Beta70 and approved public media are unchanged.
+
+## Preserved publication and preparation history
+
 Published and live-verified [GeoFindbar PR32/PR33](docs/PR32_PR33_LIVE_20261115.md), with the small PR34 German text correction. Same original nine page bodies: five false enquiry reviews to zero. Free evidenced report and a three-step enquiry are public; original data/proof are preserved and paid APIs remain off. Assisted Beta70 is unchanged.
 
 ## Preserved preparation and publication history
