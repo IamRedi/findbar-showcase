@@ -1,3 +1,7 @@
+Prepared [automatic linked catalog discovery PR37](docs/CRAWL_DISCOVERY_20261116.md), review head f9f2fab96005128062a50f31a8c1a8d9f6a1d2b3.434unit/56integration/18E2E/build/security0 verified. Published engine remains PR36 and website PR33; originals/intended noindex preserved,paid API0. External-client material excluded. Native/About/card/media and assistedBeta70 NO_CONTENT_CHANGE. Candidate publication requires separate approval.
+
+## Preserved publication and preparation history
+
 Published and live native-rechecked [GeoFindbar PR36](docs/PR36_LIVE_20261115.md). Exact source f592591; original data/evidence and intended noindex preserved,no paid API. Public website PR33 and assistedBeta70 remain unchanged. Earlier candidate pending-publication states are historical.
 
 ## Preserved publication and preparation history
