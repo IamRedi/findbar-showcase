@@ -1,3 +1,7 @@
+Real [self-client recheck after PR31](docs/SELF_PR31_RECHECK_20261115.md) completed with original evidence preserved. The native report retains5raw enquiry reviews; browser/assistant checks distinguish extraction limits from business defects. No engine/site change or paid API.
+
+## Preserved publication and earlier test history
+
 Published and verified [GeoFindbar app-style website PR31](docs/PR31_WEBSITE_LIVE_20261115.md). Original data/proof are preserved; paid APIs remain off. Assisted Beta70 and core audit scope are unchanged.
 
 ## Preserved private preparation and publication history
