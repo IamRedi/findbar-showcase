@@ -1,3 +1,7 @@
+Prepared [PR36 content scope and equipment review candidate](docs/CONTENT_SCOPE_EQUIPMENT_20261115.md), exact head f592591b47558cbb5a53649342597ba53c7ae233. Final421unit/56integration/18E2E/build/security0 verified, originals and intended noindex preserved. Production remains PR35/websitePR33; no paid API. Private external-client material excluded. Assisted Beta70 and approved UI/media unchanged.
+
+## Preserved publication and preparation history
+
 Published and native-rechecked [GeoFindbar PR35](docs/PR35_LIVE_20261115.md). Original evidence/data and intended noindex are preserved; no paid API. Public site PR33 and assisted Beta70 remain unchanged. Earlier candidate pending-publication entries are historical.
 
 ## Preserved publication and preparation history
