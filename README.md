@@ -1,3 +1,7 @@
+Prepared [private app-style website candidate](docs/GFB_WORKSPACE_UI_PRIVATE_20261115.md) for review. The published PR30 website, approved public media and assisted Beta70 remain unchanged. No deployment or paid API activation.
+
+## Preserved published baseline and history
+
 Published [website and enquiry release](docs/PR30_WEBSITE_LIVE_20261115.md), verified live with original data preserved and paid APIs off. Assisted Beta70 and core audit scope are unchanged.
 
 ## Preserved private preparation and prior accepted history
