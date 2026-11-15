@@ -1,3 +1,7 @@
+Published [website and enquiry release](docs/PR30_WEBSITE_LIVE_20261115.md), verified live with original data preserved and paid APIs off. Assisted Beta70 and core audit scope are unchanged.
+
+## Preserved private preparation and prior accepted history
+
 Private [website integration candidate](docs/GFB_SITE_PRIVATE_CD_20261115.md) prepared for review; production, approved media and readiness are unchanged. No deployment or paid API activation.
 
 Latest [approved self-client engine and offer release](docs/SELF_CLIENT_LIVE_20261115.md): actual native12-to4-to0reviews, original evidence preserved, public offer clarified. No paid API, ranking or readiness uplift.
