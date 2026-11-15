@@ -1,3 +1,7 @@
+Published and live native-rechecked [GeoFindbar PR36](docs/PR36_LIVE_20261115.md). Exact source f592591; original data/evidence and intended noindex preserved,no paid API. Public website PR33 and assistedBeta70 remain unchanged. Earlier candidate pending-publication states are historical.
+
+## Preserved publication and preparation history
+
 Prepared [PR36 content scope and equipment review candidate](docs/CONTENT_SCOPE_EQUIPMENT_20261115.md), exact head f592591b47558cbb5a53649342597ba53c7ae233. Final421unit/56integration/18E2E/build/security0 verified, originals and intended noindex preserved. Production remains PR35/websitePR33; no paid API. Private external-client material excluded. Assisted Beta70 and approved UI/media unchanged.
 
 ## Preserved publication and preparation history
