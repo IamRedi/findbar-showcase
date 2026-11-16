@@ -1,3 +1,7 @@
+Published and live native-rechecked [GeoFindbar PR40](docs/PR40_LIVE_20261116.md). Exact source63e0b01: specific localized legacy titles, evidenced HTTP status/location/count, bounded distinct priority groups and corroborated primary metadata review with explicit abstention. Seven normal native bases plus one authenticated linked continuation; owner44bodies/findings/intended noindex and original data/proofs preserved, paidAPI0. WebsitePR33/assistedBeta70 unchanged; private external-client material excluded. Earlier pending-publication and generic-label notes below are historical.
+
+## Preserved publication and preparation history
+
 Prepared [metadata context and legacy labels PR40](https://github.com/IamRedi/findbar/pull/40), review head 63e0b01d47f9643603fd8e7a9934b90d351950bf.488unit/type,60integration,27fullE2E,29site/build/security0 PASS on app sourcea034d43; owner44bodies/findings/intendednoindex unchanged. Published Studio/worker remains PR39/f1dffd2; websitePR33. Originals/DB/keys/config/finance preserved; paidAPI0. External-client material excluded. Native/About/card/media and assistedBeta70 NO_CONTENT_CHANGE while unpublished. One next action: exact-source Studio/worker publication approval.
 
 ## Preserved publication and preparation history
