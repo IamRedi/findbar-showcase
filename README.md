@@ -1,3 +1,7 @@
+PR44 candidate ready for review: [embedded-content and grouped coverage](docs/EMBEDDED_CONTENT_COVERAGE_20261117.md), appa6894dc/review32401de.541unit/type,69integration,42E2E/build and144private report browserchecksPASS. Source hints grant no resources; knownpasswordgates skiprender; unreadgroups retain discovery/source and unchanged limits.0high/critical,1moderate advisory retained. NOT_PUBLISHED: Studio/workerPR43 andwebsitePR33/assistedBeta70 unchanged; privateexternal reports/results/media excluded.
+
+## Preserved delivery history
+
 Published Studio/worker [GeoFindbar PR43](docs/PR43_LIVE_20261116.md). Source7cbad4c/appf8f4d24 adds bounded networkless JavaScript DOM checks and private report provenance; HTML/noindex/originals and paidAPI0 are preserved. Fresh535unit/type/build and7isolation checks PASS; reviewed69integration/36E2E accepted for identical app inputs.0high/critical,1moderate dependency advisory retained. WebsitePR33/assistedBeta70 unchanged. External-client reports/results/media excluded. Earlier pending-publication notes are historical.
 
 ## Preserved publication and preparation history
