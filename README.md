@@ -1,3 +1,7 @@
+Published and live native-rechecked [GeoFindbar PR39](docs/PR39_LIVE_20261116.md). Exact source f1dffd2; unread-page evidence and one max30 continuation/chain60 verified through the real authenticated endpoint and worker. Owner44bodies/findings and original data/proofs/noindex preserved; paid API0. Website PR33 unchanged. Some legacy summary labels remain editorial-review items; assistedBeta70 remains accurate. External-client material excluded. Earlier pending-publication entries are historical.
+
+## Preserved publication and preparation history
+
 Prepared [bounded unread-page continuation PR39](https://github.com/IamRedi/findbar/pull/39), review head f1dffd28eb9298e0d24300540e0a95381238c206. 473unit/59integration/full24E2E plus6final focused checks/build/security0 verified across documented source revisions. Published engine remains PR38 and websitePR33; originals/intended noindex preserved, paid API0. External-client material excluded. Native/About/card/media and assisted Beta70 NO_CONTENT_CHANGE while unpublished. Exact-source Studio/worker publication approval is pending.
 
 ## Preserved publication and preparation history
