@@ -1,3 +1,7 @@
+Published and live native-rechecked [GeoFindbar PR42](docs/PR42_LIVE_20261116.md). Exact source98ab8df: bounded local-service reviews and primary-reading limits with immutable observations. Eight normal native bases plus two authenticated bounded private continuations; owner44bodies/findings/intended noindex and original data/proofs preserved, paidAPI0. WebsitePR33/assistedBeta70 unchanged; private external-client material excluded. Earlier pending-publication and generic-label notes below are historical.
+
+## Preserved publication and preparation history
+
 Prepared bounded local-service/primary-reading candidate https://github.com/IamRedi/findbar/pull/42, review head 98ab8dfde8246799a3fda0f8b74b60241f56dd8a.528unit/type,62isolated integration,33E2E/build/security0 PASS on app091da98a4afd5fafdf3a8fa532b63a8d975a8b67;29accepted site tests reused against83unchanged inputs. Owner44bodies/findings/intentionalnoindex unchanged. Published Studio/worker remains PR41, public websitePR33.7541originals/32tables/keys/config/finance preserved,0productionwrites/paidAPI. Private external-client material excluded. Native/About/card/media NO_CONTENT_CHANGE,assistedBeta70. One next action: exact-source Studio/worker publication approval.
 
 ## Preserved publication and preparation history
