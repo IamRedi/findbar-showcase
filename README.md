@@ -1,3 +1,7 @@
+Prepared [adaptive catalog budget PR38](docs/ADAPTIVE_CATALOG_BUDGET_20261116.md), review head 5e8dacbc77c057181eaea6b396a049ad41463b6e. 455 unit / 58 integration / 18 E2E / build / security0 verified. Published engine remains PR37 and website PR33; originals/intended noindex preserved, paid API0. External-client material excluded. Native/About/card/media and assisted Beta70 NO_CONTENT_CHANGE. Candidate publication requires separate approval.
+
+## Preserved publication and preparation history
+
 Published and live native-rechecked [GeoFindbar PR37](docs/PR37_LIVE_20261116.md). Exact source f9f2fab; eight persisted audits,owner44page bodies/findings unchanged and original data/evidence/intended noindex preserved. No paid API. Website PR33 and assistedBeta70 unchanged; external-client material excluded. Earlier candidate pending-publication entries are historical.
 
 ## Preserved publication and preparation history
