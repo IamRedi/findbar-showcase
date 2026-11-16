@@ -1,3 +1,7 @@
+Published Studio/worker [GeoFindbar PR43](docs/PR43_LIVE_20261116.md). Source7cbad4c/appf8f4d24 adds bounded networkless JavaScript DOM checks and private report provenance; HTML/noindex/originals and paidAPI0 are preserved. Fresh535unit/type/build and7isolation checks PASS; reviewed69integration/36E2E accepted for identical app inputs.0high/critical,1moderate dependency advisory retained. WebsitePR33/assistedBeta70 unchanged. External-client reports/results/media excluded. Earlier pending-publication notes are historical.
+
+## Preserved publication and preparation history
+
 Published and live native-rechecked [GeoFindbar PR42](docs/PR42_LIVE_20261116.md). Exact source98ab8df: bounded local-service reviews and primary-reading limits with immutable observations. Eight normal native bases plus two authenticated bounded private continuations; owner44bodies/findings/intended noindex and original data/proofs preserved, paidAPI0. WebsitePR33/assistedBeta70 unchanged; private external-client material excluded. Earlier pending-publication and generic-label notes below are historical.
 
 ## Preserved publication and preparation history
