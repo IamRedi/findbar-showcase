@@ -1,3 +1,7 @@
+Published and live native-rechecked [GeoFindbar PR41](docs/PR41_LIVE_20261116.md). Exact source5e23241: corroborated page purpose, URL-only description reviews and contextual business advice with immutable observations. Seven normal native bases plus one authenticated linked continuation; owner44bodies/findings/intended noindex and original data/proofs preserved, paidAPI0. WebsitePR33/assistedBeta70 unchanged; private external-client material excluded. Earlier pending-publication and generic-label notes below are historical.
+
+## Preserved publication and preparation history
+
 Prepared page-purpose/URL-description https://github.com/IamRedi/findbar/pull/41, review head 5e23241476b1f1922ea2bb257376b2f21872313f.504unit/type,61integration,30E2E,29site/build/security0 PASS on app 97b62f74f49e2dfe3b711832e3066d2525ecd1b4.Owner44bodies/findings/intentionalnoindex unchanged. Published Studio/worker remains PR40; websitePR33.4013originals/32tables/keys/config/finance preserved,paidAPI0. Native/About/card/media NO_CONTENT_CHANGE,assistedBeta70. Private external-client material excluded. Single next action: exact-source Studio/worker publication approval.
 
 ## Preserved publication and preparation history
