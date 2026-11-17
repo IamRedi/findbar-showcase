@@ -1,3 +1,7 @@
+PR49 PUBLISHED / 23 NATIVE DONE — [technical receipt](docs/PR49_LIVE_20261118.md). Studio/worker review1aef/app8b/main3109 published; public websitePR33 unchanged; external reports stay private, paidAPI0. Native/About/card/media NO_CONTENT_CHANGE, assistedBeta70. No companion merge/deploy; old pending-publication entries below are historical.
+
+## Preserved delivery history
+
 Draft/noindex candidate READY FOR REVIEW — [technical receipt](docs/DRAFT_INDEXING_REVIEW_20261117.md). Published PR48 remains unchanged; external reports stay private, paidAPI0. Native/About/card/media NO_CONTENT_CHANGE, assistedBeta70. No merge/deploy.
 
 ## Preserved delivery history
