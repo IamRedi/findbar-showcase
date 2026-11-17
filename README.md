@@ -1,3 +1,7 @@
+PR46 PUBLISHED / native rechecks DONE — [technical receipt](docs/PR46_LIVE_20261117.md). Review4ba9d4b/app e048b48, maina6ed02b; onlyStudio/worker, publicwebsitePR33 unchanged. Fresh562unit/type/build and10renderer isolationPASS; private native/report/UI evidence and originaldata/proofs preserved, paidAPI0. External results/media excluded. Same assistedBeta70; prior pending-publication notes are historical.
+
+## Preserved delivery history
+
 M2 candidate NOT_PUBLISHED — [PR46](https://github.com/IamRedi/findbar/pull/46) review4ba9d4b/appe048b48: buyer-page sampling and clearer contextual reports.562unit/type,72integration,45E2E/build and216privatepaper checks PASS;591inputs verified. Original data/proofs preserved, paidAPI0. Published Studio/workerPR45 andassistedBeta70 unchanged; external reports remain private. [Technical receipt](docs/M2_BUYER_PAGE_CANDIDATE_20261117.md).
 
 ## Preserved delivery history
