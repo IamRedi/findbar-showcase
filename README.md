@@ -1,3 +1,7 @@
+Draft/noindex candidate READY FOR REVIEW — [technical receipt](docs/DRAFT_INDEXING_REVIEW_20261117.md). Published PR48 remains unchanged; external reports stay private, paidAPI0. Native/About/card/media NO_CONTENT_CHANGE, assistedBeta70. No merge/deploy.
+
+## Preserved delivery history
+
 PR48 PUBLISHED / requested native checks DONE — [technical receipt](docs/PR48_LIVE_20261117.md). Review627dfad/app6d5bdf3, main86d3d1a; Studio/worker only, websitePR33 unchanged. Exactsource/gates/private reports and originaldata preserved; paidAPI0. External results/media excluded. AssistedBeta70 unchanged; previous pendingpublication notes are historical.
 
 ## Preserved delivery history
