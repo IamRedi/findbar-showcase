@@ -1,0 +1,7 @@
+# GeoFindbar M2 candidate — not published
+
+17 November 2026. [Engine PR46](https://github.com/IamRedi/findbar/pull/46), reviewed source `4ba9d4be76e1f269cefc28d1bca0d18843aa5d45`, application `e048b48369bbceb1f273425507861f0505334d48`. Buyer-essential page discovery, corroborated opaque catalog sampling, contextual error-page noindex/canonical/JSON-LD labels and distinct priorities are prepared for Studio/worker review. Unread evidence remains complete behind a compact preview.
+
+Direct local validation:562unit/type,72isolatedintegration,45E2E,9focusedbrowser,29site/build/security and216finalprivatepaper checks PASS.591applicationinputs match the reviewed Git source. Private development-case HTTP regressions and exact-input views remain owner-only; no independent accuracy, ranking, complete-site or native-production-run claim. External identities, URLs, results, reports and media are excluded here.
+
+Original data/proofs, keys/configuration/finance and intentional noindex are preserved, paidAPI andproductionwrites0. One existing moderate Next advisory remains. Source is pushed/PR open, not merged/deployed. Accepted Studio/worker remains PR45/c8bb8cc. Native/About/card/media NO_CONTENT_CHANGE: the same assistedBeta70 offer/access/locale/entry remains accurate. No public maturity or capability increase, website/client changes, new provider or successor milestone. These technical companion proposals are separate from publication approval.

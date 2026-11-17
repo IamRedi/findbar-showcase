@@ -1,3 +1,7 @@
+M2 candidate NOT_PUBLISHED — [PR46](https://github.com/IamRedi/findbar/pull/46) review4ba9d4b/appe048b48: buyer-page sampling and clearer contextual reports.562unit/type,72integration,45E2E/build and216privatepaper checks PASS;591inputs verified. Original data/proofs preserved, paidAPI0. Published Studio/workerPR45 andassistedBeta70 unchanged; external reports remain private. [Technical receipt](docs/M2_BUYER_PAGE_CANDIDATE_20261117.md).
+
+## Preserved delivery history
+
 Published Studio/worker [GeoFindbar PR45](docs/PR45_LIVE_20261117.md). Reviewc8bb8cc/app7d812b3, main46fba3e: bounded actual resource-decision evidence and review-only same-card consistency, no new resource grants. Fresh549unit/type/build and10renderer isolation checks PASS; candidate72integration/42E2E accepted on identical inputs. Private native/report checks and original data/proofs preserved, paidAPI0. WebsitePR33/assistedBeta70 unchanged. External reports/media excluded. Earlier pending-publication notes are historical.
 
 ## Preserved delivery history
