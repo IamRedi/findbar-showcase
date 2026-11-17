@@ -1,3 +1,7 @@
+Published Studio/worker [GeoFindbar PR44](docs/PR44_LIVE_20261117.md). Review32401de/appa6894dc, main1d52b47: bounded embedded-content context, password-gate boundary and grouped unread provenance. Fresh541unit/type/build and7isolation checks PASS; candidate69integration/42E2E accepted on identical inputs. Original data/proofs preserved, paidAPI0. WebsitePR33/assistedBeta70 unchanged; private external reports/results/media excluded. Earlier pending-publication notes are historical.
+
+## Preserved delivery history
+
 PR44 candidate ready for review: [embedded-content and grouped coverage](docs/EMBEDDED_CONTENT_COVERAGE_20261117.md), appa6894dc/review32401de.541unit/type,69integration,42E2E/build and144private report browserchecksPASS. Source hints grant no resources; knownpasswordgates skiprender; unreadgroups retain discovery/source and unchanged limits.0high/critical,1moderate advisory retained. NOT_PUBLISHED: Studio/workerPR43 andwebsitePR33/assistedBeta70 unchanged; privateexternal reports/results/media excluded.
 
 ## Preserved delivery history
