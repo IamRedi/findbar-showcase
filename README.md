@@ -1,3 +1,7 @@
+PR47 PUBLISHED / requested native checks DONE — [technical receipt](docs/PR47_LIVE_20261117.md). Review7f764f6/appb153, main376bc5d; Studio/worker only, websitePR33 unchanged. Exactsource/gates/private reports and originaldata preserved; paidAPI0. External results/media excluded. AssistedBeta70 unchanged; previous pendingpublication notes are historical.
+
+## Preserved delivery history
+
 PR46 PUBLISHED / native rechecks DONE — [technical receipt](docs/PR46_LIVE_20261117.md). Review4ba9d4b/app e048b48, maina6ed02b; onlyStudio/worker, publicwebsitePR33 unchanged. Fresh562unit/type/build and10renderer isolationPASS; private native/report/UI evidence and originaldata/proofs preserved, paidAPI0. External results/media excluded. Same assistedBeta70; prior pending-publication notes are historical.
 
 ## Preserved delivery history
