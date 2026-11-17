@@ -1,3 +1,7 @@
+Published Studio/worker [GeoFindbar PR45](docs/PR45_LIVE_20261117.md). Reviewc8bb8cc/app7d812b3, main46fba3e: bounded actual resource-decision evidence and review-only same-card consistency, no new resource grants. Fresh549unit/type/build and10renderer isolation checks PASS; candidate72integration/42E2E accepted on identical inputs. Private native/report checks and original data/proofs preserved, paidAPI0. WebsitePR33/assistedBeta70 unchanged. External reports/media excluded. Earlier pending-publication notes are historical.
+
+## Preserved delivery history
+
 PR45 candidate LOCAL_VERIFIED / NOT_PUBLISHED — 17 November 2026. https://github.com/IamRedi/findbar/pull/45 (review c8bb8cc / app 7d812b3): bounded browser resource-decision evidence and a separate review-only same-card title/summary rule; no new resource grants. 549 unit/type, 72 isolated integrations, 42 E2E/build, 29 site tests and 144 private report-browser checks PASS. Zero high/critical; one retained moderate advisory. Data/proofs/config/keys/finance/noindex preserved, paid API and production writes zero. Private external-client identities/results/reports/media excluded. Published Studio/worker PR44 and website PR33/assisted Beta70 unchanged. Native/About/card/media NO_CONTENT_CHANGE; no companion merge/deploy. Technical scope lives in the engine PR; this is a delivery pointer only.
 
 Preserved delivery history:
