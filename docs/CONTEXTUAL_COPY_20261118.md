@@ -1,0 +1,9 @@
+# Contextual source-bound metadata candidate
+
+Private engine review: https://github.com/IamRedi/findbar/pull/50. Application `c565833745df93b08b099f82697a1130bbf2450d`, review `6e030cd891622f441978b74d67eade039c31d5c9`. Candidate source is not merged or deployed; published Studio/worker remains accepted PR49, public website PR33 unchanged.
+
+Six source cases now receive bounded supported alternatives: booking exclusions, factual service introductions, neutral service copy, archived invitations and corroborated blog-category summaries. Observed headings survive declared-language conflicts; unsupported/ambiguous claims abstain. Every delivered proposal still needs operator review. Saved values, hashes, versions, approvals and intentional noindex are preserved.
+
+635 unit/type/build, 74 isolated integrations, 57 E2E, 18 focused browser, 29 site and 13 local gates passed on 602 exact source inputs. Six exposed source-case alternatives, 23 existing-case private HTTP component regressions and 276 private paper checks passed, with same-input and fresh-capture evidence recorded separately. These are development-exposed regressions, not a new independent holdout or global-accuracy measure. Reports, identities, URLs and screenshots of external businesses are excluded.
+
+32 original tables/rows and original proof hashes, configuration, keys and intentional noindex are preserved. Zero paid AI activation/calls, production/customer/public website writes or deployment. Full technical provenance remains in the private engine receipt. Native/About/card/media NO_CONTENT_CHANGE: same assisted offer, access, locales and Beta70 stage, which is not an accuracy percentage. Every delivered claim/draft still requires operator verification. These companion updates remain review-only; no merge, public promotion, outreach or automatic successor is authorized.
