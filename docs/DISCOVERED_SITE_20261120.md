@@ -1,0 +1,9 @@
+# Discovered-site reading candidate
+
+Private engine review: https://github.com/IamRedi/findbar/pull/51, stacked on still-open PR50. App aa1025dfb793ac3287930796b30f5ed305968df8, review bd6f47d6dae6db128f653d0aabe26caad5571655; 609 exact inputs. Candidate NOT_PUBLISHED; Studio/worker PR49 and public website remain unchanged.
+
+New nonfixture business scopes traverse actual public same-origin discoveries within 500 URL attempts, 128 MiB processed HTML and a ten-minute deadline. Primary navigation receives priority; every discovered URL gets source-bound outcome/limits in native/exported reports. Historical/software/fixture scopes remain intact. Explicit within-organization contradictions and repeated active description metadata receive review; generic Home H1 proposals abstain. Robots/auth/SSRF/noindex and immutable evidence remain protected.
+
+653 unit/type, 75 isolated integrations, 63 E2E, 24 focused browser, 29 site and all 13 local gates PASS; 18 acceptance and 12 private paper checks. Zero high/critical, one retained moderate dependency advisory. Real HTTP component capture and final inventory-only derivation are explicitly separate; not a new production-native job, independent holdout, universal coverage or global accuracy measure. External names, URLs, results, screenshots and reports are excluded.
+
+32 original tables/rows, configuration/encrypted keys/finance/noindex and original proof hashes preserved. Zero paid API activation/calls, production/client writes, merge, deployment or outreach. Native pilot information, GitHub About, first-page portfolio card and media assessed: NO_CONTENT_CHANGE. Same assisted offer/access/locales, Beta70 stage (not accuracy). Unpublished candidate behavior is not advertised as live. Review-only companion PRs; no public About/topics/card changes or automatic successor.

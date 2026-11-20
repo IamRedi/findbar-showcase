@@ -1,3 +1,7 @@
+Discovered-site candidate PR51 READY FOR REVIEW — [technical receipt](docs/DISCOVERED_SITE_20261120.md). Published PR49 remains unchanged; external reports stay private, paidAPI0. Native/About/card/media NO_CONTENT_CHANGE, assistedBeta70. No merge/deploy.
+
+## Preserved delivery history
+
 Contextual copy candidate READY FOR REVIEW — [technical receipt](docs/CONTEXTUAL_COPY_20261118.md). Published PR49 remains unchanged; external reports stay private, paidAPI0. Native/About/card/media NO_CONTENT_CHANGE, assistedBeta70. No merge/deploy.
 
 ## Preserved delivery history
