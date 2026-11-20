@@ -1,0 +1,7 @@
+# GeoFindbar — private website integration prepared
+
+15 November 2026. A private review candidate now connects the website's three offer routes to genuine enquiries with server-owned guide prices, versioned selections, declared market/locale and duplicate-safe single-writer storage. Realistic generated reference art has dedicated desktop/mobile daylight/evening compositions; it is labelled illustration, not a real client's premises or visibility evidence. The compact footer and responsive appearance follow the owner's requested direction.
+
+Local source checks cover 24 standalone website tests, 24 responsive renders, 13 flows, 10 axe checks without violations and a 1,000-record pagination fixture. The unchanged application also passes typecheck/381 tests, build, 56 isolated integrations, 18 browser E2E and dependency audit. These are local/private candidate results, not a new public release. Physical-device/owner acceptance and final commercial terms remain open.
+
+Current live native website, GitHub About, public portfolio card/links, approved media and assisted Beta70 remain unchanged. No new private screenshots, original art, customer information or source are published by this receipt. No merge, deployment, paid API activation/call or readiness/ranking increase. The earlier approved engine/website self-client cycle remains the public baseline. This companion is documentation for review only.

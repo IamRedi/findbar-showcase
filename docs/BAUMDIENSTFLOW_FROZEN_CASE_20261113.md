@@ -1,0 +1,9 @@
+# BaumdienstFlow prospective frozen-rule case
+
+13 November 2026. The owner requested a fresh real-platform comparison without adapting the engine to the case. The published static source,107source/lock hashes, confirmed software profilev2 and8DE/SQ buyer questions were frozen before the normal live worker audit. The current agent sealed its semantic review before native findings were revealed. All10public HTML captures matched the worker's bytes. This is a familiar owner platform with prior history, not a blind independent benchmark.
+
+The worker produced12page-level manual-review prompts, including locale/root repetition. Price/setup prompts partly agree with a public buyer-answer gap. Agent review identified7prompts that must not be marketed as business defects:2working natural-language contact links and5learning/certification prompts triggered by a separately linked knowledge product. Public demo/setup and first-enquiry detail questions also show limits of the current static rule scope. The full original run and all disagreements remain preserved; no precision/recall or visibility uplift is claimed.
+
+The same-origin sample includes5BaumdienstFlow and5BauFlow sibling pages; the basic12/12HTML checks apply only to2roots, not a whole-product score. A private comparison report parsed through the existing evidence library. Original database rows, keys, configuration and financial accounting remain preserved;0paid API calls/activations. No customer website/demo, profile, rule or application source changed, and no second tuned audit was substituted.
+
+Seven integrity/sequence checks validate frozen question/source bindings and reveal order; they do not measure semantic accuracy. Follow-up engine improvements and client FAQ suggestions remain proposals. Native presentation/cards/links/About and Beta70 remain accurate:NO_CONTENT_CHANGE. New demonstration materials remain private drafts; no full owner UAT or new public-media release is implied.

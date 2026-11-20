@@ -1,0 +1,13 @@
+# GeoFindbar — private form/alias and free-report candidates
+
+15 November 2026. The preserved PR31 self-client findings led to two separate review candidates: engine PR32/source834c209 and website PR33/sourcec8eb7c7. Neither is merged or deployed. The public site remains PR31 and the live engine8bf5207.
+
+The engine recognizes bounded same-origin enquiry forms, labels JavaScript-dependent routes for browser verification, and groups only evidenced same-origin/same-language/same-body canonical aliases in new derived reports. Immutable real PR31 replay changes five false enquiry reviews to zero, retaining nine raw URL records and eight canonical pages. It does not rewrite the original native report, execute forms or prove delivery. Six previous client/demo replays retain their results, body hashes and intentional noindex evidence.
+
+The website candidate removes current public price amounts; the free evidenced report comes with the package and price list. A three-card enquiry asks only for a public business link or business name/city, then email and review/consent. Old v1 records and request retries retain their original meaning. Four locales explain real findings, sources, priorities and limitations, and the free guide versus separately enabled OpenAI processing. No account, subscription, instant delivery or paid API is activated.
+
+Bounded local validation passes384 unit/regression tests,56 isolated integrations,18 E2E, build and dependency audit0. The standalone site passes29 tests,40 responsive/light-dark/four-locale browser journeys,16 final view/assistant checks and12 report renders. Twenty frozen real buyer questions receive appropriate free-guide answers without provider calls. Browser submissions are synthetic local fixtures. Physical devices, real OS keyboard/native zoom, live publication and ranking uplift are not claimed.
+
+Original evidence/source and213 protected artifacts retain their hashes; two previous private database backups were reverified without a new restore or production data mutation. New source bundles and proof were verified. The five new media artifacts are private DRAFT. No client site, production configuration, DNS, billing, schedule or paid API changed.
+
+Presentation assessment: the native site remains the accepted PR31 identity. Public showcase About/homepage, portfolio first-page card/entry, existing approved media and assistedBeta70 remain accurate. This documentation-only companion records private preparation; no public media, maturity uplift, portfolio UI change or deployment is authorized. The single next action is separate publication review, followed by an exact-source live recheck. The historical12→4→0 case stays unchanged.
