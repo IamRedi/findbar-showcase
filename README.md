@@ -1,3 +1,7 @@
+Operator review PR51 READY FOR REVIEW — [technical receipt](docs/OPERATOR_REVIEW_20261120.md). Published PR49 remains unchanged; external reports stay private, paidAPI0. Native/About/card/media NO_CONTENT_CHANGE, assistedBeta70. No merge/deploy.
+
+## Preserved delivery history
+
 Discovered-site candidate PR51 READY FOR REVIEW — [technical receipt](docs/DISCOVERED_SITE_20261120.md). Published PR49 remains unchanged; external reports stay private, paidAPI0. Native/About/card/media NO_CONTENT_CHANGE, assistedBeta70. No merge/deploy.
 
 ## Preserved delivery history
