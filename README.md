@@ -1,3 +1,7 @@
+PR50/PR51 published ONLY Studio/worker — [release receipt](docs/STUDIO_PR5051_LIVE_20261120.md). Private native/operator acceptance passed. Next: consenting feedback pilots; no outreach or paidAPI. Public website unchanged.
+
+## Preserved delivery history
+
 Operator review PR51 READY FOR REVIEW — [technical receipt](docs/OPERATOR_REVIEW_20261120.md). Published PR49 remains unchanged; external reports stay private, paidAPI0. Native/About/card/media NO_CONTENT_CHANGE, assistedBeta70. No merge/deploy.
 
 ## Preserved delivery history
